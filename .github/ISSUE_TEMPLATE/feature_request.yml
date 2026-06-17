@@ -1,0 +1,33 @@
+name: Feature Request / New Descriptor
+description: Request a new cluster descriptor or changes to an existing one
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template to request a new hardware topology descriptor or modifications to an existing one.
+
+  - type: textarea
+    id: hardware
+    attributes:
+      label: Hardware topology
+      description: Describe the hardware configuration needing a descriptor (board type, chip count, connectivity)
+      placeholder: e.g. 4x N300 in a ring topology
+    validations:
+      required: true
+
+  - type: textarea
+    id: use_case
+    attributes:
+      label: Use case
+      description: What will this descriptor be used for? Which CI pipelines or tests will consume it?
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Any reference documentation, existing similar descriptors, or other relevant details
+    validations:
+      required: false

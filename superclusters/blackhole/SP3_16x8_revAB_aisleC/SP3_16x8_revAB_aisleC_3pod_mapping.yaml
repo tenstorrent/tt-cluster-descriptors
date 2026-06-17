@@ -1,0 +1,13 @@
+rank_to_cluster_mock_cluster_desc:
+  0: "tt_metal/third_party/tt-cluster-descriptors/superclusters/blackhole/SP3_16x8_revAB_aisleC/SP3_16x8_revAB_aisleC_cluster_desc/SP3_16x8_revAB_aisleC_cluster_desc_bh-glx-c01u02.yaml"
+  1: "tt_metal/third_party/tt-cluster-descriptors/superclusters/blackhole/SP3_16x8_revAB_aisleC/SP3_16x8_revAB_aisleC_cluster_desc/SP3_16x8_revAB_aisleC_cluster_desc_bh-glx-c01u08.yaml"
+  2: "tt_metal/third_party/tt-cluster-descriptors/superclusters/blackhole/SP3_16x8_revAB_aisleC/SP3_16x8_revAB_aisleC_cluster_desc/SP3_16x8_revAB_aisleC_cluster_desc_bh-glx-c02u02.yaml"
+  3: "tt_metal/third_party/tt-cluster-descriptors/superclusters/blackhole/SP3_16x8_revAB_aisleC/SP3_16x8_revAB_aisleC_cluster_desc/SP3_16x8_revAB_aisleC_cluster_desc_bh-glx-c02u08.yaml"
+  4: "tt_metal/third_party/tt-cluster-descriptors/superclusters/blackhole/SP3_16x8_revAB_aisleC/SP3_16x8_revAB_aisleC_cluster_desc/SP3_16x8_revAB_aisleC_cluster_desc_bh-glx-c03u02.yaml"
+  5: "tt_metal/third_party/tt-cluster-descriptors/superclusters/blackhole/SP3_16x8_revAB_aisleC/SP3_16x8_revAB_aisleC_cluster_desc/SP3_16x8_revAB_aisleC_cluster_desc_bh-glx-c03u08.yaml"
+  6: "tt_metal/third_party/tt-cluster-descriptors/superclusters/blackhole/SP3_16x8_revAB_aisleC/SP3_16x8_revAB_aisleC_cluster_desc/SP3_16x8_revAB_aisleC_cluster_desc_bh-glx-c04u02.yaml"
+  7: "tt_metal/third_party/tt-cluster-descriptors/superclusters/blackhole/SP3_16x8_revAB_aisleC/SP3_16x8_revAB_aisleC_cluster_desc/SP3_16x8_revAB_aisleC_cluster_desc_bh-glx-c04u08.yaml"
+  8: "tt_metal/third_party/tt-cluster-descriptors/superclusters/blackhole/SP3_16x8_revAB_aisleC/SP3_16x8_revAB_aisleC_cluster_desc/SP3_16x8_revAB_aisleC_cluster_desc_bh-glx-c05u02.yaml"
+  9: "tt_metal/third_party/tt-cluster-descriptors/superclusters/blackhole/SP3_16x8_revAB_aisleC/SP3_16x8_revAB_aisleC_cluster_desc/SP3_16x8_revAB_aisleC_cluster_desc_bh-glx-c05u08.yaml"
+  10: "tt_metal/third_party/tt-cluster-descriptors/superclusters/blackhole/SP3_16x8_revAB_aisleC/SP3_16x8_revAB_aisleC_cluster_desc/SP3_16x8_revAB_aisleC_cluster_desc_bh-glx-c06u02.yaml"
+  11: "tt_metal/third_party/tt-cluster-descriptors/superclusters/blackhole/SP3_16x8_revAB_aisleC/SP3_16x8_revAB_aisleC_cluster_desc/SP3_16x8_revAB_aisleC_cluster_desc_bh-glx-c06u08.yaml"

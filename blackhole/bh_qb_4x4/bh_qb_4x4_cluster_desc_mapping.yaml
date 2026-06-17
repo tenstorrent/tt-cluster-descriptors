@@ -1,0 +1,5 @@
+rank_to_cluster_mock_cluster_desc:
+  0: "tt_metal/third_party/tt-cluster-descriptors/blackhole/bh_qb_4x4/bh_qb_4x4_cluster_desc/bh_qb_4x4_cluster_desc_rank_2.yaml"
+  1: "tt_metal/third_party/tt-cluster-descriptors/blackhole/bh_qb_4x4/bh_qb_4x4_cluster_desc/bh_qb_4x4_cluster_desc_rank_1.yaml"
+  2: "tt_metal/third_party/tt-cluster-descriptors/blackhole/bh_qb_4x4/bh_qb_4x4_cluster_desc/bh_qb_4x4_cluster_desc_rank_0.yaml"
+  3: "tt_metal/third_party/tt-cluster-descriptors/blackhole/bh_qb_4x4/bh_qb_4x4_cluster_desc/bh_qb_4x4_cluster_desc_rank_3.yaml"

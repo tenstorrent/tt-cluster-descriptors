@@ -1,0 +1,5 @@
+rank_to_cluster_mock_cluster_desc:
+  0: "tt_metal/third_party/tt-cluster-descriptors/superclusters/blackhole/SC16_32x4_revAB_aisleD/SC16_32x4_revAB_aisleD_cluster_desc/SC16_32x4_revAB_aisleD_cluster_desc_bh-glx-d03u02_rank_0.yaml"
+  1: "tt_metal/third_party/tt-cluster-descriptors/superclusters/blackhole/SC16_32x4_revAB_aisleD/SC16_32x4_revAB_aisleD_cluster_desc/SC16_32x4_revAB_aisleD_cluster_desc_bh-glx-d03u08_rank_1.yaml"
+  2: "tt_metal/third_party/tt-cluster-descriptors/superclusters/blackhole/SC16_32x4_revAB_aisleD/SC16_32x4_revAB_aisleD_cluster_desc/SC16_32x4_revAB_aisleD_cluster_desc_bh-glx-d04u02_rank_2.yaml"
+  3: "tt_metal/third_party/tt-cluster-descriptors/superclusters/blackhole/SC16_32x4_revAB_aisleD/SC16_32x4_revAB_aisleD_cluster_desc/SC16_32x4_revAB_aisleD_cluster_desc_bh-glx-d04u08_rank_3.yaml"

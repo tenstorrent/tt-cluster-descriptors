@@ -1,0 +1,6 @@
+# Quad BH Galaxy mock cluster: four MPI ranks (one per galaxy host), 32 ASICs each (128 total).
+rank_to_cluster_mock_cluster_desc:
+  0: "tt_metal/third_party/tt-cluster-descriptors/superclusters/blackhole/SC4_32x4_revC_subtorus_aisleC/SC4_32x4_revC_subtorus_aisleC_cluster_desc/SC4_32x4_revC_subtorus_aisleC_cluster_desc_rank_0.yaml"
+  1: "tt_metal/third_party/tt-cluster-descriptors/superclusters/blackhole/SC4_32x4_revC_subtorus_aisleC/SC4_32x4_revC_subtorus_aisleC_cluster_desc/SC4_32x4_revC_subtorus_aisleC_cluster_desc_rank_1.yaml"
+  2: "tt_metal/third_party/tt-cluster-descriptors/superclusters/blackhole/SC4_32x4_revC_subtorus_aisleC/SC4_32x4_revC_subtorus_aisleC_cluster_desc/SC4_32x4_revC_subtorus_aisleC_cluster_desc_rank_2.yaml"
+  3: "tt_metal/third_party/tt-cluster-descriptors/superclusters/blackhole/SC4_32x4_revC_subtorus_aisleC/SC4_32x4_revC_subtorus_aisleC_cluster_desc/SC4_32x4_revC_subtorus_aisleC_cluster_desc_rank_3.yaml"

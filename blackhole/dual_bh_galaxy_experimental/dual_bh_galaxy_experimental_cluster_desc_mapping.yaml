@@ -1,0 +1,3 @@
+rank_to_cluster_mock_cluster_desc:
+  0: "tt_metal/third_party/tt-cluster-descriptors/blackhole/g08blx03_cluster_descriptor/g08blx03_cluster_descriptor.yaml"
+  1: "tt_metal/third_party/tt-cluster-descriptors/blackhole/g08blx04_cluster_descriptor/g08blx04_cluster_descriptor.yaml"

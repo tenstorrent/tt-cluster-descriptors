@@ -1,0 +1,50 @@
+name: Bug Report
+description: Report incorrect or unexpected behavior in a cluster descriptor file
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report an issue. Please fill in the details below.
+
+  - type: textarea
+    id: descriptor
+    attributes:
+      label: Affected descriptor file(s)
+      description: Which YAML file(s) are affected?
+      placeholder: e.g. descriptors/T3000/T3000_cluster_descriptor.yaml
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: What did you expect the descriptor to describe?
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+      description: What does the descriptor actually describe, and how does that cause a problem?
+    validations:
+      required: true
+
+  - type: input
+    id: hardware
+    attributes:
+      label: Hardware configuration
+      description: Which board/topology are you using?
+      placeholder: e.g. T3000, TG Galaxy, TGG
+    validations:
+      required: false
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Any other relevant information (error messages, tt-metal version, etc.)
+    validations:
+      required: false

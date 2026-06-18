@@ -112,6 +112,10 @@ following the naming scheme above.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
+## Security
+
+For reporting security vulnerabilities, see [SECURITY.md](SECURITY.md).
+
 ## License
 
 [Apache License 2.0](LICENSE) — see [LICENSE_understanding.txt](LICENSE_understanding.txt) for additional context.

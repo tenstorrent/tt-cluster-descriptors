@@ -1,0 +1,9 @@
+# Quad BH Galaxy mock cluster: four MPI ranks (one per galaxy host), 32 ASICs each (128 total).
+# These four hosts (c01u02, c01u08, c01u14, c01u20) are the column-1 single-pod subset of the
+# SC36 revAB Aisle C (120c, bh-glx-120-*) set, so this mapping reuses the shared SC36 cluster_desc
+# files instead of duplicating them. Ranks keep the original single-pod host order.
+rank_to_cluster_mock_cluster_desc:
+  0: "tt_metal/third_party/tt-cluster-descriptors/superclusters/blackhole/SC36_32x4_revAB_aisleC/SC36_32x4_revAB_aisleC_cluster_desc/SC36_32x4_revAB_aisleC_cluster_desc_bh-glx-120-c01u02_rank_0.yaml"
+  1: "tt_metal/third_party/tt-cluster-descriptors/superclusters/blackhole/SC36_32x4_revAB_aisleC/SC36_32x4_revAB_aisleC_cluster_desc/SC36_32x4_revAB_aisleC_cluster_desc_bh-glx-120-c01u08_rank_1.yaml"
+  2: "tt_metal/third_party/tt-cluster-descriptors/superclusters/blackhole/SC36_32x4_revAB_aisleC/SC36_32x4_revAB_aisleC_cluster_desc/SC36_32x4_revAB_aisleC_cluster_desc_bh-glx-120-c01u14_rank_2.yaml"
+  3: "tt_metal/third_party/tt-cluster-descriptors/superclusters/blackhole/SC36_32x4_revAB_aisleC/SC36_32x4_revAB_aisleC_cluster_desc/SC36_32x4_revAB_aisleC_cluster_desc_bh-glx-120-c01u20_rank_3.yaml"

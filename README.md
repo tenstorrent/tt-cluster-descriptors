@@ -71,7 +71,7 @@ Supercluster sets:
 |---------|-------|-------|
 | `superclusters/blackhole/SP3_16x8_revAB_aisleC/` | 12 | shared by 1-pod & 3-pod mappings |
 | `superclusters/blackhole/SC20_32x4_revAB_aisleC/` | 20 | |
-| `superclusters/blackhole/SC24_32x4_revAB_virtu/` | 24 | Virtu SC24, `bg-ale22` host series |
+| `superclusters/blackhole/SC24_32x4_revAB_virtu/` | 24 | Virtu SC24, `bg-ale22` host series; shared by the full SC24 mapping and the SC20 decode-subset mapping (nodes 5–24) |
 | `superclusters/blackhole/SC20_32x4_revC_subtorus_aisleC/` | 20 | system-110 subtorus, Aisle C; shared by SC20 / SC16 (excludes c07/c08) / SC4 (c07/c08 only) mappings |
 | `superclusters/blackhole/SC16_32x4_revC_aisleC/` | 16 | system-110, Aisle C |
 | `superclusters/blackhole/SC16_32x4_revAB_aisleD/` | 16 | |

@@ -65,17 +65,6 @@ superclusters/
 | `subtorus` | present for subtorus captures |
 | `aisle` | physical aisle from the host-series letter: `c…` → `aisleC`, `d…` → `aisleD` |
 
-Supercluster sets:
-
-| Cluster | Hosts | Notes |
-|---------|-------|-------|
-| `superclusters/blackhole/SP3_16x8_revAB_aisleC/` | 12 | shared by 1-pod & 3-pod mappings |
-| `superclusters/blackhole/SC20_32x4_revAB_aisleC/` | 20 | |
-| `superclusters/blackhole/SC20_32x4_revC_subtorus_aisleC/` | 20 | system-110 subtorus, Aisle C; shared by SC20 / SC16 (excludes c07/c08) / SC4 (c07/c08 only) mappings |
-| `superclusters/blackhole/SC16_32x4_revC_aisleC/` | 16 | system-110, Aisle C |
-| `superclusters/blackhole/SC16_32x4_revAB_aisleD/` | 16 | |
-| `superclusters/blackhole/SC16_32x4_revC_subtorus_aisleD/` | 16 | system-110 subtorus, Aisle D |
-| `superclusters/wormhole/wh_closetbox/` | 16 | WH closetbox superpod |
 
 ## Path conventions (important)
 

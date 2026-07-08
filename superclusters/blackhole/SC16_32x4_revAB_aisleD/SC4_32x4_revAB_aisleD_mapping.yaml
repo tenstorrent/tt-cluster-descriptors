@@ -1,3 +1,7 @@
+# Quad BH Galaxy mock cluster: four MPI ranks (one per galaxy host), 32 ASICs each (128 total).
+# These four hosts (d03u02, d03u08, d04u02, d04u08) are the single-pod subset of the SC16 revAB
+# Aisle D (bh-glx-d*) set, so this mapping reuses the shared SC16 cluster_desc files instead of
+# duplicating them. Ranks keep the original single-pod host order.
 rank_to_cluster_mock_cluster_desc:
   0: "tt_metal/third_party/tt-cluster-descriptors/superclusters/blackhole/SC16_32x4_revAB_aisleD/SC16_32x4_revAB_aisleD_cluster_desc/SC16_32x4_revAB_aisleD_cluster_desc_bh-glx-d03u02_rank_0.yaml"
   1: "tt_metal/third_party/tt-cluster-descriptors/superclusters/blackhole/SC16_32x4_revAB_aisleD/SC16_32x4_revAB_aisleD_cluster_desc/SC16_32x4_revAB_aisleD_cluster_desc_bh-glx-d03u08_rank_1.yaml"

@@ -33,7 +33,7 @@ superclusters/
   ```
   superclusters/blackhole/SC16_32x4_revAB_aisleD/
     SC16_32x4_revAB_aisleD_mapping.yaml
-    SC16_32x4_revAB_aisleD_single_pod_mapping.yaml
+    SC4_32x4_revAB_aisleD_mapping.yaml            # single-pod (4-host) subset
     SC16_32x4_revAB_aisleD_dual_4x8_z_fallback_mapping.yaml
     SC16_32x4_revAB_aisleD_cluster_desc/        # 16 per-host descriptor YAMLs
   ```

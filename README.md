@@ -59,11 +59,11 @@ superclusters/
 
 | Token | Meaning |
 |-------|---------|
-| `class` | `SC<hosts>` (SuperCluster by host count: `SC16`, `SC20`, `SC4`) or `SP<pods>` (`SP3` = 3-pod 16x8) |
+| `class` | `SC<hosts>` (SuperCluster by host count: `SC16`, `SC20`, `SC24`, `SC4`) or `SP<pods>` (`SP3` = 3-pod 16x8) |
 | `mesh`  | logical mesh shape, e.g. `32x4`, `16x8` |
-| `rev`   | hardware revision: `revAB` (current) or `revC` (system-110 captures) |
+| `rev`   | hardware revision: `revAB` (current) or `revC` (rev-C boards; most are system-110 captures, but rev-C also appears on other host series such as `bg-ale22`) |
 | `subtorus` | present for subtorus captures |
-| `aisle` | physical aisle from the host-series letter: `c…` → `aisleC`, `d…` → `aisleD` |
+| `aisle`/location | physical aisle from the host-series letter (`c…` → `aisleC`, `d…` → `aisleD`), or a named lab/location for hosts outside the lettered aisles (e.g. `virtu` for the `bg-ale22` series) |
 
 Supercluster sets:
 
@@ -71,6 +71,7 @@ Supercluster sets:
 |---------|-------|-------|
 | `superclusters/blackhole/SP3_16x8_revAB_aisleC/` | 12 | shared by 1-pod & 3-pod mappings |
 | `superclusters/blackhole/SC20_32x4_revAB_aisleC/` | 20 | |
+| `superclusters/blackhole/SC24_32x4_revC_subtorus_virtu/` | 24 | Virtu SC24, subtorus connectivity, `bg-ale22` host series; shared by the full SC24 mapping and the SC20 decode-subset mapping (nodes 5–24) |
 | `superclusters/blackhole/SC20_32x4_revC_subtorus_aisleC/` | 20 | system-110 subtorus, Aisle C; shared by SC20 / SC16 (excludes c07/c08) / SC4 (c07/c08 only) mappings |
 | `superclusters/blackhole/SC16_32x4_revC_aisleC/` | 16 | system-110, Aisle C |
 | `superclusters/blackhole/SC16_32x4_revAB_aisleD/` | 16 | |

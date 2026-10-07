@@ -1,5 +1,7 @@
-# 4-host pod of SC16 revC subtorus aisle D, with two factory-expected cables removed:
-#   intramesh: bh-glx-110-d02u02 chip 0 chan 0 -- chip 8 chan 0
+# 4-host pod of SC16 revC subtorus aisle D, with four factory-expected cables removed:
+#   subtorus, unused by the mesh graph: bh-glx-110-d02u02 chip 0 chan 0 -- chip 8 chan 0
+#   torus, four cables down to three: bh-glx-110-d02u02 chip 15 chan 4 -- chip 23 chan 4
+#   mesh, two cables down to one: bh-glx-110-d02u02 chip 0 chan 6 -- chip 4 chan 0
 #   intermesh: bh-glx-110-d02u02 chip 5 chan 9 -- bh-glx-110-d01u02 chip 29 chan 9
 # The other two hosts are the unmodified captures.
 rank_to_cluster_mock_cluster_desc:

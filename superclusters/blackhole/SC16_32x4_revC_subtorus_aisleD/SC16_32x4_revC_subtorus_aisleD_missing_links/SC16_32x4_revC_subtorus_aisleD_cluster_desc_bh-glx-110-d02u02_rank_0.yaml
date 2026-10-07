@@ -95,11 +95,6 @@ ethernet_connections:
       chan: 3
   -
     - chip: 0
-      chan: 6
-    - chip: 4
-      chan: 0
-  -
-    - chip: 0
       chan: 7
     - chip: 4
       chan: 1
@@ -463,11 +458,6 @@ ethernet_connections:
       chan: 9
     - chip: 22
       chan: 9
-  -
-    - chip: 15
-      chan: 4
-    - chip: 23
-      chan: 4
   -
     - chip: 15
       chan: 5

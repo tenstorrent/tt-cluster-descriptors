@@ -1,0 +1,9 @@
+# 4-host pod of SC16 revC subtorus aisle D, with two factory-expected cables removed:
+#   intramesh: bh-glx-110-d02u02 chip 0 chan 0 -- chip 8 chan 0
+#   intermesh: bh-glx-110-d02u02 chip 5 chan 9 -- bh-glx-110-d01u02 chip 29 chan 9
+# The other two hosts are the unmodified captures.
+rank_to_cluster_mock_cluster_desc:
+  0: "tt_metal/third_party/tt-cluster-descriptors/superclusters/blackhole/SC16_32x4_revC_subtorus_aisleD/SC16_32x4_revC_subtorus_aisleD_missing_links/SC16_32x4_revC_subtorus_aisleD_cluster_desc_bh-glx-110-d01u02_rank_1.yaml"
+  1: "tt_metal/third_party/tt-cluster-descriptors/superclusters/blackhole/SC16_32x4_revC_subtorus_aisleD/SC16_32x4_revC_subtorus_aisleD_cluster_desc/SC16_32x4_revC_subtorus_aisleD_cluster_desc_bh-glx-110-d01u08_rank_14.yaml"
+  2: "tt_metal/third_party/tt-cluster-descriptors/superclusters/blackhole/SC16_32x4_revC_subtorus_aisleD/SC16_32x4_revC_subtorus_aisleD_missing_links/SC16_32x4_revC_subtorus_aisleD_cluster_desc_bh-glx-110-d02u02_rank_0.yaml"
+  3: "tt_metal/third_party/tt-cluster-descriptors/superclusters/blackhole/SC16_32x4_revC_subtorus_aisleD/SC16_32x4_revC_subtorus_aisleD_cluster_desc/SC16_32x4_revC_subtorus_aisleD_cluster_desc_bh-glx-110-d02u08_rank_15.yaml"

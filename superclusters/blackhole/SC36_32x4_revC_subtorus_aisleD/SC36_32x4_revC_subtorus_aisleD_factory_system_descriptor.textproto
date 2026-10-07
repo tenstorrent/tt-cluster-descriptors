@@ -1,305 +1,489 @@
 hosts {
-  hostname: "bh-glx-110-d01u02"
-  hall: "110"
+  hostname: "bh-glx-120-d01u02"
+  hall: "120"
   aisle: "D"
   rack: 1
   shelf_u: 2
   motherboard: "S7T-MB"
+  instance_path: "exabox"
+  instance_path: "bh_glx_sc36_st-120-SC36_4x4_D1-10"
+  instance_path: "bh_glx_pod_st_0"
+  instance_path: "bh_glx_node_st_0"
+  instance_path: "node_0"
 }
 hosts {
-  hostname: "bh-glx-110-d01u08"
-  hall: "110"
+  hostname: "bh-glx-120-d01u08"
+  hall: "120"
   aisle: "D"
   rack: 1
   shelf_u: 8
   motherboard: "S7T-MB"
+  instance_path: "exabox"
+  instance_path: "bh_glx_sc36_st-120-SC36_4x4_D1-10"
+  instance_path: "bh_glx_pod_st_0"
+  instance_path: "bh_glx_node_st_1"
+  instance_path: "node_0"
 }
 hosts {
-  hostname: "bh-glx-110-d01u14"
-  hall: "110"
+  hostname: "bh-glx-120-d01u14"
+  hall: "120"
   aisle: "D"
   rack: 1
   shelf_u: 14
   motherboard: "S7T-MB"
+  instance_path: "exabox"
+  instance_path: "bh_glx_sc36_st-120-SC36_4x4_D1-10"
+  instance_path: "bh_glx_pod_st_0"
+  instance_path: "bh_glx_node_st_2"
+  instance_path: "node_0"
 }
 hosts {
-  hostname: "bh-glx-110-d01u20"
-  hall: "110"
+  hostname: "bh-glx-120-d01u20"
+  hall: "120"
   aisle: "D"
   rack: 1
   shelf_u: 20
   motherboard: "S7T-MB"
+  instance_path: "exabox"
+  instance_path: "bh_glx_sc36_st-120-SC36_4x4_D1-10"
+  instance_path: "bh_glx_pod_st_0"
+  instance_path: "bh_glx_node_st_3"
+  instance_path: "node_0"
 }
 hosts {
-  hostname: "bh-glx-110-d02u02"
-  hall: "110"
+  hostname: "bh-glx-120-d02u02"
+  hall: "120"
   aisle: "D"
   rack: 2
   shelf_u: 2
   motherboard: "S7T-MB"
+  instance_path: "exabox"
+  instance_path: "bh_glx_sc36_st-120-SC36_4x4_D1-10"
+  instance_path: "bh_glx_pod_st_1"
+  instance_path: "bh_glx_node_st_0"
+  instance_path: "node_0"
 }
 hosts {
-  hostname: "bh-glx-110-d02u08"
-  hall: "110"
+  hostname: "bh-glx-120-d02u08"
+  hall: "120"
   aisle: "D"
   rack: 2
   shelf_u: 8
   motherboard: "S7T-MB"
+  instance_path: "exabox"
+  instance_path: "bh_glx_sc36_st-120-SC36_4x4_D1-10"
+  instance_path: "bh_glx_pod_st_1"
+  instance_path: "bh_glx_node_st_1"
+  instance_path: "node_0"
 }
 hosts {
-  hostname: "bh-glx-110-d02u14"
-  hall: "110"
+  hostname: "bh-glx-120-d02u14"
+  hall: "120"
   aisle: "D"
   rack: 2
   shelf_u: 14
   motherboard: "S7T-MB"
+  instance_path: "exabox"
+  instance_path: "bh_glx_sc36_st-120-SC36_4x4_D1-10"
+  instance_path: "bh_glx_pod_st_1"
+  instance_path: "bh_glx_node_st_2"
+  instance_path: "node_0"
 }
 hosts {
-  hostname: "bh-glx-110-d02u20"
-  hall: "110"
+  hostname: "bh-glx-120-d02u20"
+  hall: "120"
   aisle: "D"
   rack: 2
   shelf_u: 20
   motherboard: "S7T-MB"
+  instance_path: "exabox"
+  instance_path: "bh_glx_sc36_st-120-SC36_4x4_D1-10"
+  instance_path: "bh_glx_pod_st_1"
+  instance_path: "bh_glx_node_st_3"
+  instance_path: "node_0"
 }
 hosts {
-  hostname: "bh-glx-110-d03u02"
-  hall: "110"
+  hostname: "bh-glx-120-d03u02"
+  hall: "120"
   aisle: "D"
   rack: 3
   shelf_u: 2
   motherboard: "S7T-MB"
+  instance_path: "exabox"
+  instance_path: "bh_glx_sc36_st-120-SC36_4x4_D1-10"
+  instance_path: "bh_glx_pod_st_2"
+  instance_path: "bh_glx_node_st_0"
+  instance_path: "node_0"
 }
 hosts {
-  hostname: "bh-glx-110-d03u08"
-  hall: "110"
+  hostname: "bh-glx-120-d03u08"
+  hall: "120"
   aisle: "D"
   rack: 3
   shelf_u: 8
   motherboard: "S7T-MB"
+  instance_path: "exabox"
+  instance_path: "bh_glx_sc36_st-120-SC36_4x4_D1-10"
+  instance_path: "bh_glx_pod_st_2"
+  instance_path: "bh_glx_node_st_1"
+  instance_path: "node_0"
 }
 hosts {
-  hostname: "bh-glx-110-d03u14"
-  hall: "110"
+  hostname: "bh-glx-120-d03u14"
+  hall: "120"
   aisle: "D"
   rack: 3
   shelf_u: 14
   motherboard: "S7T-MB"
+  instance_path: "exabox"
+  instance_path: "bh_glx_sc36_st-120-SC36_4x4_D1-10"
+  instance_path: "bh_glx_pod_st_2"
+  instance_path: "bh_glx_node_st_2"
+  instance_path: "node_0"
 }
 hosts {
-  hostname: "bh-glx-110-d03u20"
-  hall: "110"
+  hostname: "bh-glx-120-d03u20"
+  hall: "120"
   aisle: "D"
   rack: 3
   shelf_u: 20
   motherboard: "S7T-MB"
+  instance_path: "exabox"
+  instance_path: "bh_glx_sc36_st-120-SC36_4x4_D1-10"
+  instance_path: "bh_glx_pod_st_2"
+  instance_path: "bh_glx_node_st_3"
+  instance_path: "node_0"
 }
 hosts {
-  hostname: "bh-glx-110-d04u02"
-  hall: "110"
+  hostname: "bh-glx-120-d04u02"
+  hall: "120"
   aisle: "D"
   rack: 4
   shelf_u: 2
   motherboard: "S7T-MB"
+  instance_path: "exabox"
+  instance_path: "bh_glx_sc36_st-120-SC36_4x4_D1-10"
+  instance_path: "bh_glx_pod_st_3"
+  instance_path: "bh_glx_node_st_0"
+  instance_path: "node_0"
 }
 hosts {
-  hostname: "bh-glx-110-d04u08"
-  hall: "110"
+  hostname: "bh-glx-120-d04u08"
+  hall: "120"
   aisle: "D"
   rack: 4
   shelf_u: 8
   motherboard: "S7T-MB"
+  instance_path: "exabox"
+  instance_path: "bh_glx_sc36_st-120-SC36_4x4_D1-10"
+  instance_path: "bh_glx_pod_st_3"
+  instance_path: "bh_glx_node_st_1"
+  instance_path: "node_0"
 }
 hosts {
-  hostname: "bh-glx-110-d04u14"
-  hall: "110"
+  hostname: "bh-glx-120-d04u14"
+  hall: "120"
   aisle: "D"
   rack: 4
   shelf_u: 14
   motherboard: "S7T-MB"
+  instance_path: "exabox"
+  instance_path: "bh_glx_sc36_st-120-SC36_4x4_D1-10"
+  instance_path: "bh_glx_pod_st_3"
+  instance_path: "bh_glx_node_st_2"
+  instance_path: "node_0"
 }
 hosts {
-  hostname: "bh-glx-110-d04u20"
-  hall: "110"
+  hostname: "bh-glx-120-d04u20"
+  hall: "120"
   aisle: "D"
   rack: 4
   shelf_u: 20
   motherboard: "S7T-MB"
+  instance_path: "exabox"
+  instance_path: "bh_glx_sc36_st-120-SC36_4x4_D1-10"
+  instance_path: "bh_glx_pod_st_3"
+  instance_path: "bh_glx_node_st_3"
+  instance_path: "node_0"
 }
 hosts {
-  hostname: "bh-glx-110-d05u08"
-  hall: "110"
+  hostname: "bh-glx-120-d05u02"
+  hall: "120"
+  aisle: "D"
+  rack: 5
+  shelf_u: 2
+  motherboard: "S7T-MB"
+  instance_path: "exabox"
+  instance_path: "bh_glx_sc36_st-120-SC36_4x4_D1-10"
+  instance_path: "bh_glx_pod_st_4"
+  instance_path: "bh_glx_node_st_0"
+  instance_path: "node_0"
+}
+hosts {
+  hostname: "bh-glx-120-d05u08"
+  hall: "120"
   aisle: "D"
   rack: 5
   shelf_u: 8
   motherboard: "S7T-MB"
+  instance_path: "exabox"
+  instance_path: "bh_glx_sc36_st-120-SC36_4x4_D1-10"
+  instance_path: "bh_glx_pod_st_4"
+  instance_path: "bh_glx_node_st_1"
+  instance_path: "node_0"
 }
 hosts {
-  hostname: "bh-glx-110-d05u02"
-  hall: "110"
-  aisle: "D"
-  rack: 5
-  shelf_u: 2
-  motherboard: "S7T-MB"
-}
-hosts {
-  hostname: "bh-glx-110-d06u02"
-  hall: "110"
-  aisle: "D"
-  rack: 6
-  shelf_u: 2
-  motherboard: "S7T-MB"
-}
-hosts {
-  hostname: "bh-glx-110-d06u08"
-  hall: "110"
-  aisle: "D"
-  rack: 6
-  shelf_u: 8
-  motherboard: "S7T-MB"
-}
-hosts {
-  hostname: "bh-glx-110-d07u08"
-  hall: "110"
-  aisle: "D"
-  rack: 7
-  shelf_u: 8
-  motherboard: "S7T-MB"
-}
-hosts {
-  hostname: "bh-glx-110-d07u02"
-  hall: "110"
-  aisle: "D"
-  rack: 7
-  shelf_u: 2
-  motherboard: "S7T-MB"
-}
-hosts {
-  hostname: "bh-glx-110-d08u02"
-  hall: "110"
-  aisle: "D"
-  rack: 8
-  shelf_u: 2
-  motherboard: "S7T-MB"
-}
-hosts {
-  hostname: "bh-glx-110-d08u08"
-  hall: "110"
-  aisle: "D"
-  rack: 8
-  shelf_u: 8
-  motherboard: "S7T-MB"
-}
-hosts {
-  hostname: "bh-glx-110-d05u14"
-  hall: "110"
+  hostname: "bh-glx-120-d05u14"
+  hall: "120"
   aisle: "D"
   rack: 5
   shelf_u: 14
   motherboard: "S7T-MB"
+  instance_path: "exabox"
+  instance_path: "bh_glx_sc36_st-120-SC36_4x4_D1-10"
+  instance_path: "bh_glx_pod_st_4"
+  instance_path: "bh_glx_node_st_2"
+  instance_path: "node_0"
 }
 hosts {
-  hostname: "bh-glx-110-d06u14"
-  hall: "110"
+  hostname: "bh-glx-120-d05u20"
+  hall: "120"
+  aisle: "D"
+  rack: 5
+  shelf_u: 20
+  motherboard: "S7T-MB"
+  instance_path: "exabox"
+  instance_path: "bh_glx_sc36_st-120-SC36_4x4_D1-10"
+  instance_path: "bh_glx_pod_st_4"
+  instance_path: "bh_glx_node_st_3"
+  instance_path: "node_0"
+}
+hosts {
+  hostname: "bh-glx-120-d06u02"
+  hall: "120"
+  aisle: "D"
+  rack: 6
+  shelf_u: 2
+  motherboard: "S7T-MB"
+  instance_path: "exabox"
+  instance_path: "bh_glx_sc36_st-120-SC36_4x4_D1-10"
+  instance_path: "bh_glx_pod_st_5"
+  instance_path: "bh_glx_node_st_1"
+  instance_path: "node_0"
+}
+hosts {
+  hostname: "bh-glx-120-d06u08"
+  hall: "120"
+  aisle: "D"
+  rack: 6
+  shelf_u: 8
+  motherboard: "S7T-MB"
+  instance_path: "exabox"
+  instance_path: "bh_glx_sc36_st-120-SC36_4x4_D1-10"
+  instance_path: "bh_glx_pod_st_5"
+  instance_path: "bh_glx_node_st_0"
+  instance_path: "node_0"
+}
+hosts {
+  hostname: "bh-glx-120-d07u02"
+  hall: "120"
+  aisle: "D"
+  rack: 7
+  shelf_u: 2
+  motherboard: "S7T-MB"
+  instance_path: "exabox"
+  instance_path: "bh_glx_sc36_st-120-SC36_4x4_D1-10"
+  instance_path: "bh_glx_pod_st_5"
+  instance_path: "bh_glx_node_st_2"
+  instance_path: "node_0"
+}
+hosts {
+  hostname: "bh-glx-120-d07u08"
+  hall: "120"
+  aisle: "D"
+  rack: 7
+  shelf_u: 8
+  motherboard: "S7T-MB"
+  instance_path: "exabox"
+  instance_path: "bh_glx_sc36_st-120-SC36_4x4_D1-10"
+  instance_path: "bh_glx_pod_st_5"
+  instance_path: "bh_glx_node_st_3"
+  instance_path: "node_0"
+}
+hosts {
+  hostname: "bh-glx-120-d06u14"
+  hall: "120"
   aisle: "D"
   rack: 6
   shelf_u: 14
   motherboard: "S7T-MB"
+  instance_path: "exabox"
+  instance_path: "bh_glx_sc36_st-120-SC36_4x4_D1-10"
+  instance_path: "bh_glx_pod_st_7"
+  instance_path: "bh_glx_node_st_0"
+  instance_path: "node_0"
 }
 hosts {
-  hostname: "bh-glx-110-d07u14"
-  hall: "110"
+  hostname: "bh-glx-120-d07u14"
+  hall: "120"
   aisle: "D"
   rack: 7
   shelf_u: 14
   motherboard: "S7T-MB"
+  instance_path: "exabox"
+  instance_path: "bh_glx_sc36_st-120-SC36_4x4_D1-10"
+  instance_path: "bh_glx_pod_st_7"
+  instance_path: "bh_glx_node_st_1"
+  instance_path: "node_0"
 }
 hosts {
-  hostname: "bh-glx-110-d08u14"
-  hall: "110"
+  hostname: "bh-glx-120-d08u14"
+  hall: "120"
   aisle: "D"
   rack: 8
   shelf_u: 14
   motherboard: "S7T-MB"
+  instance_path: "exabox"
+  instance_path: "bh_glx_sc36_st-120-SC36_4x4_D1-10"
+  instance_path: "bh_glx_pod_st_7"
+  instance_path: "bh_glx_node_st_2"
+  instance_path: "node_0"
 }
 hosts {
-  hostname: "bh-glx-110-d09u02"
-  hall: "110"
-  aisle: "D"
-  rack: 9
-  shelf_u: 2
-  motherboard: "S7T-MB"
-}
-hosts {
-  hostname: "bh-glx-110-d09u08"
-  hall: "110"
-  aisle: "D"
-  rack: 9
-  shelf_u: 8
-  motherboard: "S7T-MB"
-}
-hosts {
-  hostname: "bh-glx-110-d09u14"
-  hall: "110"
+  hostname: "bh-glx-120-d09u14"
+  hall: "120"
   aisle: "D"
   rack: 9
   shelf_u: 14
   motherboard: "S7T-MB"
+  instance_path: "exabox"
+  instance_path: "bh_glx_sc36_st-120-SC36_4x4_D1-10"
+  instance_path: "bh_glx_pod_st_7"
+  instance_path: "bh_glx_node_st_3"
+  instance_path: "node_0"
 }
 hosts {
-  hostname: "bh-glx-110-d09u20"
-  hall: "110"
+  hostname: "bh-glx-120-d08u02"
+  hall: "120"
+  aisle: "D"
+  rack: 8
+  shelf_u: 2
+  motherboard: "S7T-MB"
+  instance_path: "exabox"
+  instance_path: "bh_glx_sc36_st-120-SC36_4x4_D1-10"
+  instance_path: "bh_glx_pod_st_6"
+  instance_path: "bh_glx_node_st_1"
+  instance_path: "node_0"
+}
+hosts {
+  hostname: "bh-glx-120-d08u08"
+  hall: "120"
+  aisle: "D"
+  rack: 8
+  shelf_u: 8
+  motherboard: "S7T-MB"
+  instance_path: "exabox"
+  instance_path: "bh_glx_sc36_st-120-SC36_4x4_D1-10"
+  instance_path: "bh_glx_pod_st_6"
+  instance_path: "bh_glx_node_st_0"
+  instance_path: "node_0"
+}
+hosts {
+  hostname: "bh-glx-120-d09u02"
+  hall: "120"
   aisle: "D"
   rack: 9
-  shelf_u: 20
+  shelf_u: 2
   motherboard: "S7T-MB"
+  instance_path: "exabox"
+  instance_path: "bh_glx_sc36_st-120-SC36_4x4_D1-10"
+  instance_path: "bh_glx_pod_st_6"
+  instance_path: "bh_glx_node_st_2"
+  instance_path: "node_0"
 }
 hosts {
-  hostname: "bh-glx-110-d10u02"
-  hall: "110"
+  hostname: "bh-glx-120-d09u08"
+  hall: "120"
+  aisle: "D"
+  rack: 9
+  shelf_u: 8
+  motherboard: "S7T-MB"
+  instance_path: "exabox"
+  instance_path: "bh_glx_sc36_st-120-SC36_4x4_D1-10"
+  instance_path: "bh_glx_pod_st_6"
+  instance_path: "bh_glx_node_st_3"
+  instance_path: "node_0"
+}
+hosts {
+  hostname: "bh-glx-120-d10u02"
+  hall: "120"
   aisle: "D"
   rack: 10
   shelf_u: 2
   motherboard: "S7T-MB"
+  instance_path: "exabox"
+  instance_path: "bh_glx_sc36_st-120-SC36_4x4_D1-10"
+  instance_path: "bh_glx_pod_st_8"
+  instance_path: "bh_glx_node_st_0"
+  instance_path: "node_0"
 }
 hosts {
-  hostname: "bh-glx-110-d10u08"
-  hall: "110"
+  hostname: "bh-glx-120-d10u08"
+  hall: "120"
   aisle: "D"
   rack: 10
   shelf_u: 8
   motherboard: "S7T-MB"
+  instance_path: "exabox"
+  instance_path: "bh_glx_sc36_st-120-SC36_4x4_D1-10"
+  instance_path: "bh_glx_pod_st_8"
+  instance_path: "bh_glx_node_st_1"
+  instance_path: "node_0"
 }
 hosts {
-  hostname: "bh-glx-110-d10u14"
-  hall: "110"
+  hostname: "bh-glx-120-d10u14"
+  hall: "120"
   aisle: "D"
   rack: 10
   shelf_u: 14
   motherboard: "S7T-MB"
+  instance_path: "exabox"
+  instance_path: "bh_glx_sc36_st-120-SC36_4x4_D1-10"
+  instance_path: "bh_glx_pod_st_8"
+  instance_path: "bh_glx_node_st_2"
+  instance_path: "node_0"
 }
 hosts {
-  hostname: "bh-glx-110-d10u20"
-  hall: "110"
+  hostname: "bh-glx-120-d10u20"
+  hall: "120"
   aisle: "D"
   rack: 10
   shelf_u: 20
   motherboard: "S7T-MB"
+  instance_path: "exabox"
+  instance_path: "bh_glx_sc36_st-120-SC36_4x4_D1-10"
+  instance_path: "bh_glx_pod_st_8"
+  instance_path: "bh_glx_node_st_3"
+  instance_path: "node_0"
 }
 board_types {
   board_locations {
+    host_id: 0
     tray_id: 1
     board_type: "UBB_BLACKHOLE"
   }
   board_locations {
+    host_id: 0
     tray_id: 2
     board_type: "UBB_BLACKHOLE"
   }
   board_locations {
+    host_id: 0
     tray_id: 3
     board_type: "UBB_BLACKHOLE"
   }
   board_locations {
+    host_id: 0
     tray_id: 4
     board_type: "UBB_BLACKHOLE"
   }
@@ -1007,21 +1191,25 @@ board_types {
 eth_connections {
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 1
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 1
     }
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 1
       chan_id: 1
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 1
       chan_id: 1
@@ -1029,11 +1217,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 1
       chan_id: 2
     }
     endpoint_b {
+      host_id: 0
       tray_id: 3
       asic_location: 1
       chan_id: 2
@@ -1041,11 +1231,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 1
       chan_id: 3
     }
     endpoint_b {
+      host_id: 0
       tray_id: 3
       asic_location: 1
       chan_id: 3
@@ -1053,11 +1245,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 1
       chan_id: 4
     }
     endpoint_b {
+      host_id: 0
       tray_id: 1
       asic_location: 2
       chan_id: 2
@@ -1065,11 +1259,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 1
       chan_id: 5
     }
     endpoint_b {
+      host_id: 0
       tray_id: 1
       asic_location: 2
       chan_id: 3
@@ -1077,21 +1273,25 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 2
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 2
     }
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 2
       chan_id: 1
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 2
       chan_id: 1
@@ -1099,11 +1299,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 2
       chan_id: 4
     }
     endpoint_b {
+      host_id: 0
       tray_id: 1
       asic_location: 3
       chan_id: 2
@@ -1111,11 +1313,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 2
       chan_id: 5
     }
     endpoint_b {
+      host_id: 0
       tray_id: 1
       asic_location: 3
       chan_id: 3
@@ -1123,21 +1327,25 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 3
     }
     endpoint_b {
+      host_id: 0
       tray_id: 3
       asic_location: 3
     }
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 3
       chan_id: 1
     }
     endpoint_b {
+      host_id: 0
       tray_id: 3
       asic_location: 3
       chan_id: 1
@@ -1145,11 +1353,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 3
       chan_id: 4
     }
     endpoint_b {
+      host_id: 0
       tray_id: 1
       asic_location: 4
       chan_id: 2
@@ -1157,11 +1367,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 3
       chan_id: 5
     }
     endpoint_b {
+      host_id: 0
       tray_id: 1
       asic_location: 4
       chan_id: 3
@@ -1169,11 +1381,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 3
       chan_id: 8
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 3
       chan_id: 8
@@ -1181,11 +1395,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 3
       chan_id: 9
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 3
       chan_id: 9
@@ -1193,6 +1409,7 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 4
     }
@@ -1204,6 +1421,7 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 4
       chan_id: 1
@@ -1217,11 +1435,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 4
       chan_id: 4
     }
     endpoint_b {
+      host_id: 0
       tray_id: 3
       asic_location: 4
       chan_id: 4
@@ -1229,11 +1449,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 4
       chan_id: 5
     }
     endpoint_b {
+      host_id: 0
       tray_id: 3
       asic_location: 4
       chan_id: 5
@@ -1241,11 +1463,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 4
       chan_id: 8
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 4
       chan_id: 8
@@ -1253,11 +1477,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 4
       chan_id: 9
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 4
       chan_id: 9
@@ -1265,10 +1491,12 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 5
     }
     endpoint_b {
+      host_id: 0
       tray_id: 1
       asic_location: 1
       chan_id: 6
@@ -1276,11 +1504,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 5
       chan_id: 1
     }
     endpoint_b {
+      host_id: 0
       tray_id: 1
       asic_location: 1
       chan_id: 7
@@ -1288,11 +1518,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 5
       chan_id: 2
     }
     endpoint_b {
+      host_id: 0
       tray_id: 3
       asic_location: 5
       chan_id: 2
@@ -1300,11 +1532,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 5
       chan_id: 3
     }
     endpoint_b {
+      host_id: 0
       tray_id: 3
       asic_location: 5
       chan_id: 3
@@ -1312,11 +1546,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 5
       chan_id: 4
     }
     endpoint_b {
+      host_id: 0
       tray_id: 1
       asic_location: 6
       chan_id: 2
@@ -1324,11 +1560,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 5
       chan_id: 5
     }
     endpoint_b {
+      host_id: 0
       tray_id: 1
       asic_location: 6
       chan_id: 3
@@ -1336,11 +1574,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 5
       chan_id: 6
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 5
       chan_id: 6
@@ -1348,11 +1588,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 5
       chan_id: 7
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 5
       chan_id: 7
@@ -1360,10 +1602,12 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 6
     }
     endpoint_b {
+      host_id: 0
       tray_id: 1
       asic_location: 2
       chan_id: 6
@@ -1371,11 +1615,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 6
       chan_id: 1
     }
     endpoint_b {
+      host_id: 0
       tray_id: 1
       asic_location: 2
       chan_id: 7
@@ -1383,11 +1629,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 6
       chan_id: 4
     }
     endpoint_b {
+      host_id: 0
       tray_id: 1
       asic_location: 7
       chan_id: 2
@@ -1395,11 +1643,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 6
       chan_id: 5
     }
     endpoint_b {
+      host_id: 0
       tray_id: 1
       asic_location: 7
       chan_id: 3
@@ -1407,11 +1657,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 6
       chan_id: 6
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 6
       chan_id: 6
@@ -1419,11 +1671,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 6
       chan_id: 7
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 6
       chan_id: 7
@@ -1431,10 +1685,12 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 7
     }
     endpoint_b {
+      host_id: 0
       tray_id: 1
       asic_location: 3
       chan_id: 6
@@ -1442,11 +1698,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 7
       chan_id: 1
     }
     endpoint_b {
+      host_id: 0
       tray_id: 1
       asic_location: 3
       chan_id: 7
@@ -1454,11 +1712,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 7
       chan_id: 4
     }
     endpoint_b {
+      host_id: 0
       tray_id: 1
       asic_location: 8
       chan_id: 2
@@ -1466,11 +1726,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 7
       chan_id: 5
     }
     endpoint_b {
+      host_id: 0
       tray_id: 1
       asic_location: 8
       chan_id: 3
@@ -1478,11 +1740,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 7
       chan_id: 6
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 7
       chan_id: 6
@@ -1490,11 +1754,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 7
       chan_id: 7
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 7
       chan_id: 7
@@ -1502,11 +1768,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 7
       chan_id: 8
     }
     endpoint_b {
+      host_id: 0
       tray_id: 3
       asic_location: 7
       chan_id: 8
@@ -1514,11 +1782,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 7
       chan_id: 9
     }
     endpoint_b {
+      host_id: 0
       tray_id: 3
       asic_location: 7
       chan_id: 9
@@ -1526,10 +1796,12 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 8
     }
     endpoint_b {
+      host_id: 0
       tray_id: 1
       asic_location: 4
       chan_id: 6
@@ -1537,11 +1809,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 8
       chan_id: 1
     }
     endpoint_b {
+      host_id: 0
       tray_id: 1
       asic_location: 4
       chan_id: 7
@@ -1549,11 +1823,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 8
       chan_id: 4
     }
     endpoint_b {
+      host_id: 0
       tray_id: 3
       asic_location: 8
       chan_id: 4
@@ -1561,11 +1837,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 8
       chan_id: 5
     }
     endpoint_b {
+      host_id: 0
       tray_id: 3
       asic_location: 8
       chan_id: 5
@@ -1573,11 +1851,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 8
       chan_id: 6
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 8
       chan_id: 6
@@ -1585,11 +1865,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 8
       chan_id: 7
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 8
       chan_id: 7
@@ -1597,11 +1879,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 8
       chan_id: 8
     }
     endpoint_b {
+      host_id: 0
       tray_id: 3
       asic_location: 8
       chan_id: 8
@@ -1609,11 +1893,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 1
       asic_location: 8
       chan_id: 9
     }
     endpoint_b {
+      host_id: 0
       tray_id: 3
       asic_location: 8
       chan_id: 9
@@ -1621,11 +1907,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 2
       asic_location: 1
       chan_id: 2
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 1
       chan_id: 2
@@ -1633,11 +1921,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 2
       asic_location: 1
       chan_id: 3
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 1
       chan_id: 3
@@ -1645,11 +1935,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 2
       asic_location: 1
       chan_id: 4
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 2
       chan_id: 2
@@ -1657,11 +1949,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 2
       asic_location: 1
       chan_id: 5
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 2
       chan_id: 3
@@ -1669,11 +1963,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 2
       asic_location: 2
       chan_id: 4
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 3
       chan_id: 2
@@ -1681,11 +1977,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 2
       asic_location: 2
       chan_id: 5
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 3
       chan_id: 3
@@ -1693,21 +1991,25 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 2
       asic_location: 3
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 3
     }
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 2
       asic_location: 3
       chan_id: 1
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 3
       chan_id: 1
@@ -1715,11 +2017,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 2
       asic_location: 3
       chan_id: 4
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 4
       chan_id: 2
@@ -1727,11 +2031,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 2
       asic_location: 3
       chan_id: 5
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 4
       chan_id: 3
@@ -1739,23 +2045,25 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 2
       asic_location: 4
     }
     endpoint_b {
-      host_id: 21
+      host_id: 20
       tray_id: 2
       asic_location: 4
     }
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 2
       asic_location: 4
       chan_id: 1
     }
     endpoint_b {
-      host_id: 21
+      host_id: 20
       tray_id: 2
       asic_location: 4
       chan_id: 1
@@ -1763,11 +2071,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 2
       asic_location: 4
       chan_id: 4
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 4
       chan_id: 4
@@ -1775,11 +2085,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 2
       asic_location: 4
       chan_id: 5
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 4
       chan_id: 5
@@ -1787,10 +2099,12 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 2
       asic_location: 5
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 1
       chan_id: 6
@@ -1798,11 +2112,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 2
       asic_location: 5
       chan_id: 1
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 1
       chan_id: 7
@@ -1810,11 +2126,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 2
       asic_location: 5
       chan_id: 2
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 5
       chan_id: 2
@@ -1822,11 +2140,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 2
       asic_location: 5
       chan_id: 3
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 5
       chan_id: 3
@@ -1834,11 +2154,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 2
       asic_location: 5
       chan_id: 4
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 6
       chan_id: 2
@@ -1846,11 +2168,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 2
       asic_location: 5
       chan_id: 5
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 6
       chan_id: 3
@@ -1858,10 +2182,12 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 2
       asic_location: 6
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 2
       chan_id: 6
@@ -1869,11 +2195,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 2
       asic_location: 6
       chan_id: 1
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 2
       chan_id: 7
@@ -1881,11 +2209,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 2
       asic_location: 6
       chan_id: 4
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 7
       chan_id: 2
@@ -1893,11 +2223,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 2
       asic_location: 6
       chan_id: 5
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 7
       chan_id: 3
@@ -1905,10 +2237,12 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 2
       asic_location: 7
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 3
       chan_id: 6
@@ -1916,11 +2250,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 2
       asic_location: 7
       chan_id: 1
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 3
       chan_id: 7
@@ -1928,11 +2264,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 2
       asic_location: 7
       chan_id: 4
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 8
       chan_id: 2
@@ -1940,11 +2278,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 2
       asic_location: 7
       chan_id: 5
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 8
       chan_id: 3
@@ -1952,11 +2292,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 2
       asic_location: 7
       chan_id: 8
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 7
       chan_id: 8
@@ -1964,11 +2306,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 2
       asic_location: 7
       chan_id: 9
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 7
       chan_id: 9
@@ -1976,10 +2320,12 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 2
       asic_location: 8
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 4
       chan_id: 6
@@ -1987,11 +2333,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 2
       asic_location: 8
       chan_id: 1
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 4
       chan_id: 7
@@ -1999,11 +2347,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 2
       asic_location: 8
       chan_id: 4
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 8
       chan_id: 4
@@ -2011,11 +2361,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 2
       asic_location: 8
       chan_id: 5
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 8
       chan_id: 5
@@ -2023,11 +2375,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 2
       asic_location: 8
       chan_id: 8
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 8
       chan_id: 8
@@ -2035,11 +2389,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 2
       asic_location: 8
       chan_id: 9
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 8
       chan_id: 9
@@ -2047,21 +2403,25 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 1
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 1
     }
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 1
       chan_id: 1
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 1
       chan_id: 1
@@ -2069,11 +2429,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 1
       chan_id: 4
     }
     endpoint_b {
+      host_id: 0
       tray_id: 3
       asic_location: 2
       chan_id: 2
@@ -2081,11 +2443,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 1
       chan_id: 5
     }
     endpoint_b {
+      host_id: 0
       tray_id: 3
       asic_location: 2
       chan_id: 3
@@ -2093,6 +2457,7 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 1
       chan_id: 8
@@ -2106,6 +2471,7 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 1
       chan_id: 9
@@ -2119,21 +2485,25 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 2
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 2
     }
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 2
       chan_id: 1
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 2
       chan_id: 1
@@ -2141,11 +2511,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 2
       chan_id: 4
     }
     endpoint_b {
+      host_id: 0
       tray_id: 3
       asic_location: 3
       chan_id: 2
@@ -2153,11 +2525,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 2
       chan_id: 5
     }
     endpoint_b {
+      host_id: 0
       tray_id: 3
       asic_location: 3
       chan_id: 3
@@ -2165,6 +2539,7 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 2
       chan_id: 8
@@ -2178,6 +2553,7 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 2
       chan_id: 9
@@ -2191,11 +2567,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 3
       chan_id: 4
     }
     endpoint_b {
+      host_id: 0
       tray_id: 3
       asic_location: 4
       chan_id: 2
@@ -2203,11 +2581,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 3
       chan_id: 5
     }
     endpoint_b {
+      host_id: 0
       tray_id: 3
       asic_location: 4
       chan_id: 3
@@ -2215,11 +2595,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 3
       chan_id: 8
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 3
       chan_id: 8
@@ -2227,11 +2609,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 3
       chan_id: 9
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 3
       chan_id: 9
@@ -2239,6 +2623,7 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 4
     }
@@ -2250,6 +2635,7 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 4
       chan_id: 1
@@ -2263,11 +2649,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 4
       chan_id: 8
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 4
       chan_id: 8
@@ -2275,11 +2663,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 4
       chan_id: 9
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 4
       chan_id: 9
@@ -2287,10 +2677,12 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 5
     }
     endpoint_b {
+      host_id: 0
       tray_id: 3
       asic_location: 1
       chan_id: 6
@@ -2298,11 +2690,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 5
       chan_id: 1
     }
     endpoint_b {
+      host_id: 0
       tray_id: 3
       asic_location: 1
       chan_id: 7
@@ -2310,11 +2704,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 5
       chan_id: 4
     }
     endpoint_b {
+      host_id: 0
       tray_id: 3
       asic_location: 6
       chan_id: 2
@@ -2322,11 +2718,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 5
       chan_id: 5
     }
     endpoint_b {
+      host_id: 0
       tray_id: 3
       asic_location: 6
       chan_id: 3
@@ -2334,11 +2732,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 5
       chan_id: 6
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 5
       chan_id: 6
@@ -2346,11 +2746,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 5
       chan_id: 7
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 5
       chan_id: 7
@@ -2358,6 +2760,7 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 5
       chan_id: 8
@@ -2371,6 +2774,7 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 5
       chan_id: 9
@@ -2384,10 +2788,12 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 6
     }
     endpoint_b {
+      host_id: 0
       tray_id: 3
       asic_location: 2
       chan_id: 6
@@ -2395,11 +2801,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 6
       chan_id: 1
     }
     endpoint_b {
+      host_id: 0
       tray_id: 3
       asic_location: 2
       chan_id: 7
@@ -2407,11 +2815,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 6
       chan_id: 4
     }
     endpoint_b {
+      host_id: 0
       tray_id: 3
       asic_location: 7
       chan_id: 2
@@ -2419,11 +2829,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 6
       chan_id: 5
     }
     endpoint_b {
+      host_id: 0
       tray_id: 3
       asic_location: 7
       chan_id: 3
@@ -2431,11 +2843,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 6
       chan_id: 6
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 6
       chan_id: 6
@@ -2443,11 +2857,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 6
       chan_id: 7
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 6
       chan_id: 7
@@ -2455,6 +2871,7 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 6
       chan_id: 8
@@ -2468,6 +2885,7 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 6
       chan_id: 9
@@ -2481,10 +2899,12 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 7
     }
     endpoint_b {
+      host_id: 0
       tray_id: 3
       asic_location: 3
       chan_id: 6
@@ -2492,11 +2912,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 7
       chan_id: 1
     }
     endpoint_b {
+      host_id: 0
       tray_id: 3
       asic_location: 3
       chan_id: 7
@@ -2504,11 +2926,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 7
       chan_id: 4
     }
     endpoint_b {
+      host_id: 0
       tray_id: 3
       asic_location: 8
       chan_id: 2
@@ -2516,11 +2940,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 7
       chan_id: 5
     }
     endpoint_b {
+      host_id: 0
       tray_id: 3
       asic_location: 8
       chan_id: 3
@@ -2528,11 +2954,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 7
       chan_id: 6
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 7
       chan_id: 6
@@ -2540,11 +2968,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 7
       chan_id: 7
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 7
       chan_id: 7
@@ -2552,10 +2982,12 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 8
     }
     endpoint_b {
+      host_id: 0
       tray_id: 3
       asic_location: 4
       chan_id: 6
@@ -2563,11 +2995,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 8
       chan_id: 1
     }
     endpoint_b {
+      host_id: 0
       tray_id: 3
       asic_location: 4
       chan_id: 7
@@ -2575,11 +3009,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 8
       chan_id: 6
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 8
       chan_id: 6
@@ -2587,11 +3023,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 3
       asic_location: 8
       chan_id: 7
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 8
       chan_id: 7
@@ -2599,11 +3037,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 4
       asic_location: 1
       chan_id: 4
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 2
       chan_id: 2
@@ -2611,11 +3051,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 4
       asic_location: 1
       chan_id: 5
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 2
       chan_id: 3
@@ -2623,6 +3065,7 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 4
       asic_location: 1
       chan_id: 8
@@ -2636,6 +3079,7 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 4
       asic_location: 1
       chan_id: 9
@@ -2649,11 +3093,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 4
       asic_location: 2
       chan_id: 4
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 3
       chan_id: 2
@@ -2661,11 +3107,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 4
       asic_location: 2
       chan_id: 5
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 3
       chan_id: 3
@@ -2673,6 +3121,7 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 4
       asic_location: 2
       chan_id: 8
@@ -2686,6 +3135,7 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 4
       asic_location: 2
       chan_id: 9
@@ -2699,11 +3149,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 4
       asic_location: 3
       chan_id: 4
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 4
       chan_id: 2
@@ -2711,11 +3163,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 4
       asic_location: 3
       chan_id: 5
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 4
       chan_id: 3
@@ -2723,6 +3177,7 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 4
       asic_location: 4
     }
@@ -2734,6 +3189,7 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 4
       asic_location: 4
       chan_id: 1
@@ -2747,10 +3203,12 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 4
       asic_location: 5
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 1
       chan_id: 6
@@ -2758,11 +3216,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 4
       asic_location: 5
       chan_id: 1
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 1
       chan_id: 7
@@ -2770,11 +3230,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 4
       asic_location: 5
       chan_id: 4
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 6
       chan_id: 2
@@ -2782,11 +3244,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 4
       asic_location: 5
       chan_id: 5
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 6
       chan_id: 3
@@ -2794,6 +3258,7 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 4
       asic_location: 5
       chan_id: 8
@@ -2807,6 +3272,7 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 4
       asic_location: 5
       chan_id: 9
@@ -2820,10 +3286,12 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 4
       asic_location: 6
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 2
       chan_id: 6
@@ -2831,11 +3299,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 4
       asic_location: 6
       chan_id: 1
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 2
       chan_id: 7
@@ -2843,11 +3313,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 4
       asic_location: 6
       chan_id: 4
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 7
       chan_id: 2
@@ -2855,11 +3327,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 4
       asic_location: 6
       chan_id: 5
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 7
       chan_id: 3
@@ -2867,6 +3341,7 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 4
       asic_location: 6
       chan_id: 8
@@ -2880,6 +3355,7 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 4
       asic_location: 6
       chan_id: 9
@@ -2893,10 +3369,12 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 4
       asic_location: 7
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 3
       chan_id: 6
@@ -2904,11 +3382,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 4
       asic_location: 7
       chan_id: 1
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 3
       chan_id: 7
@@ -2916,11 +3396,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 4
       asic_location: 7
       chan_id: 4
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 8
       chan_id: 2
@@ -2928,11 +3410,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 4
       asic_location: 7
       chan_id: 5
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 8
       chan_id: 3
@@ -2940,10 +3424,12 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 4
       asic_location: 8
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 4
       chan_id: 6
@@ -2951,11 +3437,13 @@ eth_connections {
   }
   connection {
     endpoint_a {
+      host_id: 0
       tray_id: 4
       asic_location: 8
       chan_id: 1
     }
     endpoint_b {
+      host_id: 0
       tray_id: 4
       asic_location: 4
       chan_id: 7
@@ -8547,6 +9035,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
+      host_id: 0
       tray_id: 1
       asic_location: 1
       chan_id: 8
@@ -8560,6 +9049,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
+      host_id: 0
       tray_id: 1
       asic_location: 1
       chan_id: 9
@@ -8627,6 +9117,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
+      host_id: 0
       tray_id: 1
       asic_location: 2
       chan_id: 8
@@ -8640,6 +9131,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
+      host_id: 0
       tray_id: 1
       asic_location: 2
       chan_id: 9
@@ -8846,6 +9338,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
+      host_id: 0
       tray_id: 1
       asic_location: 5
       chan_id: 8
@@ -8859,6 +9352,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
+      host_id: 0
       tray_id: 1
       asic_location: 5
       chan_id: 9
@@ -8955,6 +9449,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
+      host_id: 0
       tray_id: 1
       asic_location: 6
       chan_id: 8
@@ -8968,6 +9463,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
+      host_id: 0
       tray_id: 1
       asic_location: 6
       chan_id: 9
@@ -9147,6 +9643,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 1
       chan_id: 8
@@ -9160,6 +9657,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 1
       chan_id: 9
@@ -9201,6 +9699,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 2
       chan_id: 8
@@ -9214,6 +9713,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 2
       chan_id: 9
@@ -9254,7 +9754,7 @@ eth_connections {
       asic_location: 4
     }
     endpoint_b {
-      host_id: 28
+      host_id: 24
       tray_id: 2
       asic_location: 4
     }
@@ -9267,7 +9767,7 @@ eth_connections {
       chan_id: 1
     }
     endpoint_b {
-      host_id: 28
+      host_id: 24
       tray_id: 2
       asic_location: 4
       chan_id: 1
@@ -9336,6 +9836,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 5
       chan_id: 8
@@ -9349,6 +9850,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 5
       chan_id: 9
@@ -9417,6 +9919,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 6
       chan_id: 8
@@ -9430,6 +9933,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
+      host_id: 0
       tray_id: 2
       asic_location: 6
       chan_id: 9
@@ -11510,7 +12014,7 @@ eth_connections {
       asic_location: 4
     }
     endpoint_b {
-      host_id: 25
+      host_id: 28
       tray_id: 4
       asic_location: 4
     }
@@ -11523,7 +12027,7 @@ eth_connections {
       chan_id: 1
     }
     endpoint_b {
-      host_id: 25
+      host_id: 28
       tray_id: 4
       asic_location: 4
       chan_id: 1
@@ -18082,7 +18586,7 @@ eth_connections {
       asic_location: 4
     }
     endpoint_b {
-      host_id: 27
+      host_id: 31
       tray_id: 2
       asic_location: 4
     }
@@ -18095,7 +18599,7 @@ eth_connections {
       chan_id: 1
     }
     endpoint_b {
-      host_id: 27
+      host_id: 31
       tray_id: 2
       asic_location: 4
       chan_id: 1
@@ -20342,7 +20846,7 @@ eth_connections {
       asic_location: 4
     }
     endpoint_b {
-      host_id: 25
+      host_id: 28
       tray_id: 3
       asic_location: 4
     }
@@ -20355,7 +20859,7 @@ eth_connections {
       chan_id: 1
     }
     endpoint_b {
-      host_id: 25
+      host_id: 28
       tray_id: 3
       asic_location: 4
       chan_id: 1
@@ -26914,7 +27418,7 @@ eth_connections {
       asic_location: 4
     }
     endpoint_b {
-      host_id: 27
+      host_id: 31
       tray_id: 1
       asic_location: 4
     }
@@ -26927,7 +27431,7 @@ eth_connections {
       chan_id: 1
     }
     endpoint_b {
-      host_id: 27
+      host_id: 31
       tray_id: 1
       asic_location: 4
       chan_id: 1
@@ -28042,7 +28546,7 @@ eth_connections {
       asic_location: 4
     }
     endpoint_b {
-      host_id: 21
+      host_id: 20
       tray_id: 1
       asic_location: 4
     }
@@ -28055,7 +28559,7 @@ eth_connections {
       chan_id: 1
     }
     endpoint_b {
-      host_id: 21
+      host_id: 20
       tray_id: 1
       asic_location: 4
       chan_id: 1
@@ -29174,7 +29678,7 @@ eth_connections {
       asic_location: 4
     }
     endpoint_b {
-      host_id: 29
+      host_id: 25
       tray_id: 4
       asic_location: 4
     }
@@ -29187,7 +29691,7 @@ eth_connections {
       chan_id: 1
     }
     endpoint_b {
-      host_id: 29
+      host_id: 25
       tray_id: 4
       asic_location: 4
       chan_id: 1
@@ -35746,7 +36250,7 @@ eth_connections {
       asic_location: 4
     }
     endpoint_b {
-      host_id: 31
+      host_id: 27
       tray_id: 2
       asic_location: 4
     }
@@ -35759,7 +36263,7 @@ eth_connections {
       chan_id: 1
     }
     endpoint_b {
-      host_id: 31
+      host_id: 27
       tray_id: 2
       asic_location: 4
       chan_id: 1
@@ -36874,7 +37378,7 @@ eth_connections {
       asic_location: 4
     }
     endpoint_b {
-      host_id: 25
+      host_id: 28
       tray_id: 2
       asic_location: 4
     }
@@ -36887,7 +37391,7 @@ eth_connections {
       chan_id: 1
     }
     endpoint_b {
-      host_id: 25
+      host_id: 28
       tray_id: 2
       asic_location: 4
       chan_id: 1
@@ -37452,7 +37956,7 @@ eth_connections {
       asic_location: 4
     }
     endpoint_b {
-      host_id: 21
+      host_id: 20
       tray_id: 3
       asic_location: 4
     }
@@ -37465,7 +37969,7 @@ eth_connections {
       chan_id: 1
     }
     endpoint_b {
-      host_id: 21
+      host_id: 20
       tray_id: 3
       asic_location: 4
       chan_id: 1
@@ -38006,7 +38510,7 @@ eth_connections {
       asic_location: 4
     }
     endpoint_b {
-      host_id: 29
+      host_id: 25
       tray_id: 2
       asic_location: 4
     }
@@ -38019,7 +38523,7 @@ eth_connections {
       chan_id: 1
     }
     endpoint_b {
-      host_id: 29
+      host_id: 25
       tray_id: 2
       asic_location: 4
       chan_id: 1
@@ -42387,231 +42891,231 @@ eth_connections {
       tray_id: 4
       asic_location: 4
       chan_id: 3
-    }
-  }
-  connection {
-    endpoint_a {
-      host_id: 18
-      tray_id: 4
-      asic_location: 4
-    }
-    endpoint_b {
-      host_id: 26
-      tray_id: 2
-      asic_location: 4
     }
   }
   connection {
     endpoint_a {
       host_id: 18
       tray_id: 4
-      asic_location: 4
-      chan_id: 1
-    }
-    endpoint_b {
-      host_id: 26
-      tray_id: 2
       asic_location: 4
-      chan_id: 1
-    }
-  }
-  connection {
-    endpoint_a {
-      host_id: 18
-      tray_id: 4
-      asic_location: 5
-    }
-    endpoint_b {
-      host_id: 18
-      tray_id: 4
-      asic_location: 1
-      chan_id: 6
-    }
-  }
-  connection {
-    endpoint_a {
-      host_id: 18
-      tray_id: 4
-      asic_location: 5
-      chan_id: 1
-    }
-    endpoint_b {
-      host_id: 18
-      tray_id: 4
-      asic_location: 1
-      chan_id: 7
-    }
-  }
-  connection {
-    endpoint_a {
-      host_id: 18
-      tray_id: 4
-      asic_location: 5
-      chan_id: 4
-    }
-    endpoint_b {
-      host_id: 18
-      tray_id: 4
-      asic_location: 6
-      chan_id: 2
-    }
-  }
-  connection {
-    endpoint_a {
-      host_id: 18
-      tray_id: 4
-      asic_location: 5
-      chan_id: 5
-    }
-    endpoint_b {
-      host_id: 18
-      tray_id: 4
-      asic_location: 6
-      chan_id: 3
-    }
-  }
-  connection {
-    endpoint_a {
-      host_id: 18
-      tray_id: 4
-      asic_location: 5
-      chan_id: 8
-    }
-    endpoint_b {
-      host_id: 19
-      tray_id: 2
-      asic_location: 5
-      chan_id: 8
-    }
-  }
-  connection {
-    endpoint_a {
-      host_id: 18
-      tray_id: 4
-      asic_location: 5
-      chan_id: 9
-    }
-    endpoint_b {
-      host_id: 19
-      tray_id: 2
-      asic_location: 5
-      chan_id: 9
-    }
-  }
-  connection {
-    endpoint_a {
-      host_id: 18
-      tray_id: 4
-      asic_location: 6
-    }
-    endpoint_b {
-      host_id: 18
-      tray_id: 4
-      asic_location: 2
-      chan_id: 6
-    }
-  }
-  connection {
-    endpoint_a {
-      host_id: 18
-      tray_id: 4
-      asic_location: 6
-      chan_id: 1
-    }
-    endpoint_b {
-      host_id: 18
-      tray_id: 4
-      asic_location: 2
-      chan_id: 7
-    }
-  }
-  connection {
-    endpoint_a {
-      host_id: 18
-      tray_id: 4
-      asic_location: 6
-      chan_id: 4
-    }
-    endpoint_b {
-      host_id: 18
-      tray_id: 4
-      asic_location: 7
-      chan_id: 2
-    }
-  }
-  connection {
-    endpoint_a {
-      host_id: 18
-      tray_id: 4
-      asic_location: 6
-      chan_id: 5
-    }
-    endpoint_b {
-      host_id: 18
-      tray_id: 4
-      asic_location: 7
-      chan_id: 3
-    }
-  }
-  connection {
-    endpoint_a {
-      host_id: 18
-      tray_id: 4
-      asic_location: 6
-      chan_id: 8
-    }
-    endpoint_b {
-      host_id: 19
-      tray_id: 2
-      asic_location: 6
-      chan_id: 8
-    }
-  }
-  connection {
-    endpoint_a {
-      host_id: 18
-      tray_id: 4
-      asic_location: 6
-      chan_id: 9
-    }
-    endpoint_b {
-      host_id: 19
-      tray_id: 2
-      asic_location: 6
-      chan_id: 9
-    }
-  }
-  connection {
-    endpoint_a {
-      host_id: 18
-      tray_id: 4
-      asic_location: 7
-    }
-    endpoint_b {
-      host_id: 18
-      tray_id: 4
-      asic_location: 3
-      chan_id: 6
-    }
-  }
-  connection {
-    endpoint_a {
-      host_id: 18
-      tray_id: 4
-      asic_location: 7
-      chan_id: 1
     }
     endpoint_b {
-      host_id: 18
-      tray_id: 4
-      asic_location: 3
-      chan_id: 7
-    }
-  }
-  connection {
-    endpoint_a {
-      host_id: 18
-      tray_id: 4
+      host_id: 30
+      tray_id: 2
+      asic_location: 4
+    }
+  }
+  connection {
+    endpoint_a {
+      host_id: 18
+      tray_id: 4
+      asic_location: 4
+      chan_id: 1
+    }
+    endpoint_b {
+      host_id: 30
+      tray_id: 2
+      asic_location: 4
+      chan_id: 1
+    }
+  }
+  connection {
+    endpoint_a {
+      host_id: 18
+      tray_id: 4
+      asic_location: 5
+    }
+    endpoint_b {
+      host_id: 18
+      tray_id: 4
+      asic_location: 1
+      chan_id: 6
+    }
+  }
+  connection {
+    endpoint_a {
+      host_id: 18
+      tray_id: 4
+      asic_location: 5
+      chan_id: 1
+    }
+    endpoint_b {
+      host_id: 18
+      tray_id: 4
+      asic_location: 1
+      chan_id: 7
+    }
+  }
+  connection {
+    endpoint_a {
+      host_id: 18
+      tray_id: 4
+      asic_location: 5
+      chan_id: 4
+    }
+    endpoint_b {
+      host_id: 18
+      tray_id: 4
+      asic_location: 6
+      chan_id: 2
+    }
+  }
+  connection {
+    endpoint_a {
+      host_id: 18
+      tray_id: 4
+      asic_location: 5
+      chan_id: 5
+    }
+    endpoint_b {
+      host_id: 18
+      tray_id: 4
+      asic_location: 6
+      chan_id: 3
+    }
+  }
+  connection {
+    endpoint_a {
+      host_id: 18
+      tray_id: 4
+      asic_location: 5
+      chan_id: 8
+    }
+    endpoint_b {
+      host_id: 19
+      tray_id: 2
+      asic_location: 5
+      chan_id: 8
+    }
+  }
+  connection {
+    endpoint_a {
+      host_id: 18
+      tray_id: 4
+      asic_location: 5
+      chan_id: 9
+    }
+    endpoint_b {
+      host_id: 19
+      tray_id: 2
+      asic_location: 5
+      chan_id: 9
+    }
+  }
+  connection {
+    endpoint_a {
+      host_id: 18
+      tray_id: 4
+      asic_location: 6
+    }
+    endpoint_b {
+      host_id: 18
+      tray_id: 4
+      asic_location: 2
+      chan_id: 6
+    }
+  }
+  connection {
+    endpoint_a {
+      host_id: 18
+      tray_id: 4
+      asic_location: 6
+      chan_id: 1
+    }
+    endpoint_b {
+      host_id: 18
+      tray_id: 4
+      asic_location: 2
+      chan_id: 7
+    }
+  }
+  connection {
+    endpoint_a {
+      host_id: 18
+      tray_id: 4
+      asic_location: 6
+      chan_id: 4
+    }
+    endpoint_b {
+      host_id: 18
+      tray_id: 4
+      asic_location: 7
+      chan_id: 2
+    }
+  }
+  connection {
+    endpoint_a {
+      host_id: 18
+      tray_id: 4
+      asic_location: 6
+      chan_id: 5
+    }
+    endpoint_b {
+      host_id: 18
+      tray_id: 4
+      asic_location: 7
+      chan_id: 3
+    }
+  }
+  connection {
+    endpoint_a {
+      host_id: 18
+      tray_id: 4
+      asic_location: 6
+      chan_id: 8
+    }
+    endpoint_b {
+      host_id: 19
+      tray_id: 2
+      asic_location: 6
+      chan_id: 8
+    }
+  }
+  connection {
+    endpoint_a {
+      host_id: 18
+      tray_id: 4
+      asic_location: 6
+      chan_id: 9
+    }
+    endpoint_b {
+      host_id: 19
+      tray_id: 2
+      asic_location: 6
+      chan_id: 9
+    }
+  }
+  connection {
+    endpoint_a {
+      host_id: 18
+      tray_id: 4
+      asic_location: 7
+    }
+    endpoint_b {
+      host_id: 18
+      tray_id: 4
+      asic_location: 3
+      chan_id: 6
+    }
+  }
+  connection {
+    endpoint_a {
+      host_id: 18
+      tray_id: 4
+      asic_location: 7
+      chan_id: 1
+    }
+    endpoint_b {
+      host_id: 18
+      tray_id: 4
+      asic_location: 3
+      chan_id: 7
+    }
+  }
+  connection {
+    endpoint_a {
+      host_id: 18
+      tray_id: 4
       asic_location: 7
       chan_id: 4
     }
@@ -45061,32 +45565,6 @@ eth_connections {
       tray_id: 2
       asic_location: 3
       chan_id: 9
-    }
-  }
-  connection {
-    endpoint_a {
-      host_id: 20
-      tray_id: 1
-      asic_location: 4
-    }
-    endpoint_b {
-      host_id: 5
-      tray_id: 2
-      asic_location: 4
-    }
-  }
-  connection {
-    endpoint_a {
-      host_id: 20
-      tray_id: 1
-      asic_location: 4
-      chan_id: 1
-    }
-    endpoint_b {
-      host_id: 5
-      tray_id: 2
-      asic_location: 4
-      chan_id: 1
     }
   }
   connection {
@@ -45697,33 +46175,7 @@ eth_connections {
       tray_id: 2
       asic_location: 4
       chan_id: 3
-    }
-  }
-  connection {
-    endpoint_a {
-      host_id: 20
-      tray_id: 2
-      asic_location: 4
-    }
-    endpoint_b {
-      host_id: 29
-      tray_id: 1
-      asic_location: 4
-    }
-  }
-  connection {
-    endpoint_a {
-      host_id: 20
-      tray_id: 2
-      asic_location: 4
-      chan_id: 1
     }
-    endpoint_b {
-      host_id: 29
-      tray_id: 1
-      asic_location: 4
-      chan_id: 1
-    }
   }
   connection {
     endpoint_a {
@@ -46119,7 +46571,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 21
+      host_id: 22
       tray_id: 1
       asic_location: 1
       chan_id: 8
@@ -46133,7 +46585,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 21
+      host_id: 22
       tray_id: 1
       asic_location: 1
       chan_id: 9
@@ -46201,7 +46653,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 21
+      host_id: 22
       tray_id: 1
       asic_location: 2
       chan_id: 8
@@ -46215,7 +46667,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 21
+      host_id: 22
       tray_id: 1
       asic_location: 2
       chan_id: 9
@@ -46282,32 +46734,6 @@ eth_connections {
       host_id: 20
       tray_id: 3
       asic_location: 4
-    }
-    endpoint_b {
-      host_id: 9
-      tray_id: 3
-      asic_location: 4
-    }
-  }
-  connection {
-    endpoint_a {
-      host_id: 20
-      tray_id: 3
-      asic_location: 4
-      chan_id: 1
-    }
-    endpoint_b {
-      host_id: 9
-      tray_id: 3
-      asic_location: 4
-      chan_id: 1
-    }
-  }
-  connection {
-    endpoint_a {
-      host_id: 20
-      tray_id: 3
-      asic_location: 4
       chan_id: 8
     }
     endpoint_b {
@@ -46422,7 +46848,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 21
+      host_id: 22
       tray_id: 1
       asic_location: 5
       chan_id: 8
@@ -46436,7 +46862,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 21
+      host_id: 22
       tray_id: 1
       asic_location: 5
       chan_id: 9
@@ -46533,7 +46959,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 21
+      host_id: 22
       tray_id: 1
       asic_location: 6
       chan_id: 8
@@ -46547,7 +46973,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 21
+      host_id: 22
       tray_id: 1
       asic_location: 6
       chan_id: 9
@@ -46727,7 +47153,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 21
+      host_id: 22
       tray_id: 2
       asic_location: 1
       chan_id: 8
@@ -46741,7 +47167,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 21
+      host_id: 22
       tray_id: 2
       asic_location: 1
       chan_id: 9
@@ -46783,7 +47209,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 21
+      host_id: 22
       tray_id: 2
       asic_location: 2
       chan_id: 8
@@ -46797,7 +47223,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 21
+      host_id: 22
       tray_id: 2
       asic_location: 2
       chan_id: 9
@@ -46829,32 +47255,6 @@ eth_connections {
       tray_id: 4
       asic_location: 4
       chan_id: 3
-    }
-  }
-  connection {
-    endpoint_a {
-      host_id: 20
-      tray_id: 4
-      asic_location: 4
-    }
-    endpoint_b {
-      host_id: 33
-      tray_id: 4
-      asic_location: 4
-    }
-  }
-  connection {
-    endpoint_a {
-      host_id: 20
-      tray_id: 4
-      asic_location: 4
-      chan_id: 1
-    }
-    endpoint_b {
-      host_id: 33
-      tray_id: 4
-      asic_location: 4
-      chan_id: 1
     }
   }
   connection {
@@ -46920,7 +47320,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 21
+      host_id: 22
       tray_id: 2
       asic_location: 5
       chan_id: 8
@@ -46934,7 +47334,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 21
+      host_id: 22
       tray_id: 2
       asic_location: 5
       chan_id: 9
@@ -47003,7 +47403,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 21
+      host_id: 22
       tray_id: 2
       asic_location: 6
       chan_id: 8
@@ -47017,7 +47417,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 21
+      host_id: 22
       tray_id: 2
       asic_location: 6
       chan_id: 9
@@ -47321,7 +47721,33 @@ eth_connections {
       tray_id: 2
       asic_location: 3
       chan_id: 9
+    }
+  }
+  connection {
+    endpoint_a {
+      host_id: 21
+      tray_id: 1
+      asic_location: 4
+    }
+    endpoint_b {
+      host_id: 5
+      tray_id: 2
+      asic_location: 4
+    }
+  }
+  connection {
+    endpoint_a {
+      host_id: 21
+      tray_id: 1
+      asic_location: 4
+      chan_id: 1
     }
+    endpoint_b {
+      host_id: 5
+      tray_id: 2
+      asic_location: 4
+      chan_id: 1
+    }
   }
   connection {
     endpoint_a {
@@ -47931,6 +48357,32 @@ eth_connections {
       tray_id: 2
       asic_location: 4
       chan_id: 3
+    }
+  }
+  connection {
+    endpoint_a {
+      host_id: 21
+      tray_id: 2
+      asic_location: 4
+    }
+    endpoint_b {
+      host_id: 25
+      tray_id: 1
+      asic_location: 4
+    }
+  }
+  connection {
+    endpoint_a {
+      host_id: 21
+      tray_id: 2
+      asic_location: 4
+      chan_id: 1
+    }
+    endpoint_b {
+      host_id: 25
+      tray_id: 1
+      asic_location: 4
+      chan_id: 1
     }
   }
   connection {
@@ -48327,7 +48779,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 22
+      host_id: 20
       tray_id: 1
       asic_location: 1
       chan_id: 8
@@ -48341,7 +48793,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 22
+      host_id: 20
       tray_id: 1
       asic_location: 1
       chan_id: 9
@@ -48409,7 +48861,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 22
+      host_id: 20
       tray_id: 1
       asic_location: 2
       chan_id: 8
@@ -48423,7 +48875,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 22
+      host_id: 20
       tray_id: 1
       asic_location: 2
       chan_id: 9
@@ -48483,6 +48935,32 @@ eth_connections {
       tray_id: 4
       asic_location: 3
       chan_id: 9
+    }
+  }
+  connection {
+    endpoint_a {
+      host_id: 21
+      tray_id: 3
+      asic_location: 4
+    }
+    endpoint_b {
+      host_id: 9
+      tray_id: 3
+      asic_location: 4
+    }
+  }
+  connection {
+    endpoint_a {
+      host_id: 21
+      tray_id: 3
+      asic_location: 4
+      chan_id: 1
+    }
+    endpoint_b {
+      host_id: 9
+      tray_id: 3
+      asic_location: 4
+      chan_id: 1
     }
   }
   connection {
@@ -48604,7 +49082,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 22
+      host_id: 20
       tray_id: 1
       asic_location: 5
       chan_id: 8
@@ -48618,7 +49096,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 22
+      host_id: 20
       tray_id: 1
       asic_location: 5
       chan_id: 9
@@ -48715,7 +49193,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 22
+      host_id: 20
       tray_id: 1
       asic_location: 6
       chan_id: 8
@@ -48729,7 +49207,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 22
+      host_id: 20
       tray_id: 1
       asic_location: 6
       chan_id: 9
@@ -48909,7 +49387,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 22
+      host_id: 20
       tray_id: 2
       asic_location: 1
       chan_id: 8
@@ -48923,7 +49401,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 22
+      host_id: 20
       tray_id: 2
       asic_location: 1
       chan_id: 9
@@ -48965,7 +49443,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 22
+      host_id: 20
       tray_id: 2
       asic_location: 2
       chan_id: 8
@@ -48979,7 +49457,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 22
+      host_id: 20
       tray_id: 2
       asic_location: 2
       chan_id: 9
@@ -49011,7 +49489,33 @@ eth_connections {
       tray_id: 4
       asic_location: 4
       chan_id: 3
+    }
+  }
+  connection {
+    endpoint_a {
+      host_id: 21
+      tray_id: 4
+      asic_location: 4
+    }
+    endpoint_b {
+      host_id: 33
+      tray_id: 4
+      asic_location: 4
+    }
+  }
+  connection {
+    endpoint_a {
+      host_id: 21
+      tray_id: 4
+      asic_location: 4
+      chan_id: 1
     }
+    endpoint_b {
+      host_id: 33
+      tray_id: 4
+      asic_location: 4
+      chan_id: 1
+    }
   }
   connection {
     endpoint_a {
@@ -49076,7 +49580,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 22
+      host_id: 20
       tray_id: 2
       asic_location: 5
       chan_id: 8
@@ -49090,7 +49594,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 22
+      host_id: 20
       tray_id: 2
       asic_location: 5
       chan_id: 9
@@ -49159,7 +49663,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 22
+      host_id: 20
       tray_id: 2
       asic_location: 6
       chan_id: 8
@@ -49173,7 +49677,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 22
+      host_id: 20
       tray_id: 2
       asic_location: 6
       chan_id: 9
@@ -51202,7 +51706,7 @@ eth_connections {
       asic_location: 4
     }
     endpoint_b {
-      host_id: 30
+      host_id: 26
       tray_id: 1
       asic_location: 4
     }
@@ -51215,7 +51719,7 @@ eth_connections {
       chan_id: 1
     }
     endpoint_b {
-      host_id: 30
+      host_id: 26
       tray_id: 1
       asic_location: 4
       chan_id: 1
@@ -52691,7 +53195,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 20
+      host_id: 21
       tray_id: 1
       asic_location: 1
       chan_id: 8
@@ -52705,7 +53209,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 20
+      host_id: 21
       tray_id: 1
       asic_location: 1
       chan_id: 9
@@ -52773,7 +53277,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 20
+      host_id: 21
       tray_id: 1
       asic_location: 2
       chan_id: 8
@@ -52787,7 +53291,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 20
+      host_id: 21
       tray_id: 1
       asic_location: 2
       chan_id: 9
@@ -52994,7 +53498,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 20
+      host_id: 21
       tray_id: 1
       asic_location: 5
       chan_id: 8
@@ -53008,7 +53512,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 20
+      host_id: 21
       tray_id: 1
       asic_location: 5
       chan_id: 9
@@ -53105,7 +53609,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 20
+      host_id: 21
       tray_id: 1
       asic_location: 6
       chan_id: 8
@@ -53119,7 +53623,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 20
+      host_id: 21
       tray_id: 1
       asic_location: 6
       chan_id: 9
@@ -53299,7 +53803,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 20
+      host_id: 21
       tray_id: 2
       asic_location: 1
       chan_id: 8
@@ -53313,7 +53817,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 20
+      host_id: 21
       tray_id: 2
       asic_location: 1
       chan_id: 9
@@ -53355,7 +53859,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 20
+      host_id: 21
       tray_id: 2
       asic_location: 2
       chan_id: 8
@@ -53369,7 +53873,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 20
+      host_id: 21
       tray_id: 2
       asic_location: 2
       chan_id: 9
@@ -53492,7 +53996,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 20
+      host_id: 21
       tray_id: 2
       asic_location: 5
       chan_id: 8
@@ -53506,7 +54010,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 20
+      host_id: 21
       tray_id: 2
       asic_location: 5
       chan_id: 9
@@ -53575,7 +54079,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 20
+      host_id: 21
       tray_id: 2
       asic_location: 6
       chan_id: 8
@@ -53589,7 +54093,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 20
+      host_id: 21
       tray_id: 2
       asic_location: 6
       chan_id: 9
@@ -53902,8 +54406,8 @@ eth_connections {
       asic_location: 4
     }
     endpoint_b {
-      host_id: 1
-      tray_id: 2
+      host_id: 28
+      tray_id: 1
       asic_location: 4
     }
   }
@@ -53915,8 +54419,8 @@ eth_connections {
       chan_id: 1
     }
     endpoint_b {
-      host_id: 1
-      tray_id: 2
+      host_id: 28
+      tray_id: 1
       asic_location: 4
       chan_id: 1
     }
@@ -54529,32 +55033,6 @@ eth_connections {
       tray_id: 2
       asic_location: 4
       chan_id: 3
-    }
-  }
-  connection {
-    endpoint_a {
-      host_id: 24
-      tray_id: 2
-      asic_location: 4
-    }
-    endpoint_b {
-      host_id: 33
-      tray_id: 1
-      asic_location: 4
-    }
-  }
-  connection {
-    endpoint_a {
-      host_id: 24
-      tray_id: 2
-      asic_location: 4
-      chan_id: 1
-    }
-    endpoint_b {
-      host_id: 33
-      tray_id: 1
-      asic_location: 4
-      chan_id: 1
     }
   }
   connection {
@@ -55116,8 +55594,8 @@ eth_connections {
       asic_location: 4
     }
     endpoint_b {
-      host_id: 13
-      tray_id: 4
+      host_id: 5
+      tray_id: 3
       asic_location: 4
     }
   }
@@ -55129,8 +55607,8 @@ eth_connections {
       chan_id: 1
     }
     endpoint_b {
-      host_id: 13
-      tray_id: 4
+      host_id: 5
+      tray_id: 3
       asic_location: 4
       chan_id: 1
     }
@@ -55670,7 +56148,7 @@ eth_connections {
       asic_location: 4
     }
     endpoint_b {
-      host_id: 21
+      host_id: 9
       tray_id: 4
       asic_location: 4
     }
@@ -55683,7 +56161,7 @@ eth_connections {
       chan_id: 1
     }
     endpoint_b {
-      host_id: 21
+      host_id: 9
       tray_id: 4
       asic_location: 4
       chan_id: 1
@@ -58919,6 +59397,32 @@ eth_connections {
       tray_id: 2
       asic_location: 4
       chan_id: 3
+    }
+  }
+  connection {
+    endpoint_a {
+      host_id: 26
+      tray_id: 2
+      asic_location: 4
+    }
+    endpoint_b {
+      host_id: 19
+      tray_id: 2
+      asic_location: 4
+    }
+  }
+  connection {
+    endpoint_a {
+      host_id: 26
+      tray_id: 2
+      asic_location: 4
+      chan_id: 1
+    }
+    endpoint_b {
+      host_id: 19
+      tray_id: 2
+      asic_location: 4
+      chan_id: 1
     }
   }
   connection {
@@ -59480,8 +59984,8 @@ eth_connections {
       asic_location: 4
     }
     endpoint_b {
-      host_id: 2
-      tray_id: 2
+      host_id: 30
+      tray_id: 1
       asic_location: 4
     }
   }
@@ -59493,8 +59997,8 @@ eth_connections {
       chan_id: 1
     }
     endpoint_b {
-      host_id: 2
-      tray_id: 2
+      host_id: 30
+      tray_id: 1
       asic_location: 4
       chan_id: 1
     }
@@ -60034,8 +60538,8 @@ eth_connections {
       asic_location: 4
     }
     endpoint_b {
-      host_id: 34
-      tray_id: 1
+      host_id: 3
+      tray_id: 2
       asic_location: 4
     }
   }
@@ -60047,8 +60551,8 @@ eth_connections {
       chan_id: 1
     }
     endpoint_b {
-      host_id: 34
-      tray_id: 1
+      host_id: 3
+      tray_id: 2
       asic_location: 4
       chan_id: 1
     }
@@ -61688,8 +62192,8 @@ eth_connections {
       asic_location: 4
     }
     endpoint_b {
-      host_id: 15
-      tray_id: 2
+      host_id: 7
+      tray_id: 1
       asic_location: 4
     }
   }
@@ -61701,8 +62205,8 @@ eth_connections {
       chan_id: 1
     }
     endpoint_b {
-      host_id: 15
-      tray_id: 2
+      host_id: 7
+      tray_id: 1
       asic_location: 4
       chan_id: 1
     }
@@ -62242,7 +62746,7 @@ eth_connections {
       asic_location: 4
     }
     endpoint_b {
-      host_id: 23
+      host_id: 11
       tray_id: 2
       asic_location: 4
     }
@@ -62255,7 +62759,7 @@ eth_connections {
       chan_id: 1
     }
     endpoint_b {
-      host_id: 23
+      host_id: 11
       tray_id: 2
       asic_location: 4
       chan_id: 1
@@ -62725,32 +63229,6 @@ eth_connections {
       tray_id: 2
       asic_location: 3
       chan_id: 9
-    }
-  }
-  connection {
-    endpoint_a {
-      host_id: 28
-      tray_id: 1
-      asic_location: 4
-    }
-    endpoint_b {
-      host_id: 25
-      tray_id: 1
-      asic_location: 4
-    }
-  }
-  connection {
-    endpoint_a {
-      host_id: 28
-      tray_id: 1
-      asic_location: 4
-      chan_id: 1
-    }
-    endpoint_b {
-      host_id: 25
-      tray_id: 1
-      asic_location: 4
-      chan_id: 1
     }
   }
   connection {
@@ -63757,7 +64235,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 29
+      host_id: 30
       tray_id: 1
       asic_location: 1
       chan_id: 8
@@ -63771,7 +64249,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 29
+      host_id: 30
       tray_id: 1
       asic_location: 1
       chan_id: 9
@@ -63839,7 +64317,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 29
+      host_id: 30
       tray_id: 1
       asic_location: 2
       chan_id: 8
@@ -63853,7 +64331,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 29
+      host_id: 30
       tray_id: 1
       asic_location: 2
       chan_id: 9
@@ -63913,32 +64391,6 @@ eth_connections {
       tray_id: 4
       asic_location: 3
       chan_id: 9
-    }
-  }
-  connection {
-    endpoint_a {
-      host_id: 28
-      tray_id: 3
-      asic_location: 4
-    }
-    endpoint_b {
-      host_id: 5
-      tray_id: 3
-      asic_location: 4
-    }
-  }
-  connection {
-    endpoint_a {
-      host_id: 28
-      tray_id: 3
-      asic_location: 4
-      chan_id: 1
-    }
-    endpoint_b {
-      host_id: 5
-      tray_id: 3
-      asic_location: 4
-      chan_id: 1
     }
   }
   connection {
@@ -64060,7 +64512,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 29
+      host_id: 30
       tray_id: 1
       asic_location: 5
       chan_id: 8
@@ -64074,7 +64526,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 29
+      host_id: 30
       tray_id: 1
       asic_location: 5
       chan_id: 9
@@ -64171,7 +64623,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 29
+      host_id: 30
       tray_id: 1
       asic_location: 6
       chan_id: 8
@@ -64185,7 +64637,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 29
+      host_id: 30
       tray_id: 1
       asic_location: 6
       chan_id: 9
@@ -64365,7 +64817,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 29
+      host_id: 30
       tray_id: 2
       asic_location: 1
       chan_id: 8
@@ -64379,7 +64831,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 29
+      host_id: 30
       tray_id: 2
       asic_location: 1
       chan_id: 9
@@ -64421,7 +64873,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 29
+      host_id: 30
       tray_id: 2
       asic_location: 2
       chan_id: 8
@@ -64435,7 +64887,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 29
+      host_id: 30
       tray_id: 2
       asic_location: 2
       chan_id: 9
@@ -64473,32 +64925,6 @@ eth_connections {
     endpoint_a {
       host_id: 28
       tray_id: 4
-      asic_location: 4
-    }
-    endpoint_b {
-      host_id: 9
-      tray_id: 4
-      asic_location: 4
-    }
-  }
-  connection {
-    endpoint_a {
-      host_id: 28
-      tray_id: 4
-      asic_location: 4
-      chan_id: 1
-    }
-    endpoint_b {
-      host_id: 9
-      tray_id: 4
-      asic_location: 4
-      chan_id: 1
-    }
-  }
-  connection {
-    endpoint_a {
-      host_id: 28
-      tray_id: 4
       asic_location: 5
     }
     endpoint_b {
@@ -64558,7 +64984,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 29
+      host_id: 30
       tray_id: 2
       asic_location: 5
       chan_id: 8
@@ -64572,7 +64998,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 29
+      host_id: 30
       tray_id: 2
       asic_location: 5
       chan_id: 9
@@ -64641,7 +65067,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 29
+      host_id: 30
       tray_id: 2
       asic_location: 6
       chan_id: 8
@@ -64655,7 +65081,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 29
+      host_id: 30
       tray_id: 2
       asic_location: 6
       chan_id: 9
@@ -64959,6 +65385,32 @@ eth_connections {
       tray_id: 2
       asic_location: 3
       chan_id: 9
+    }
+  }
+  connection {
+    endpoint_a {
+      host_id: 29
+      tray_id: 1
+      asic_location: 4
+    }
+    endpoint_b {
+      host_id: 1
+      tray_id: 2
+      asic_location: 4
+    }
+  }
+  connection {
+    endpoint_a {
+      host_id: 29
+      tray_id: 1
+      asic_location: 4
+      chan_id: 1
+    }
+    endpoint_b {
+      host_id: 1
+      tray_id: 2
+      asic_location: 4
+      chan_id: 1
     }
   }
   connection {
@@ -65569,6 +66021,32 @@ eth_connections {
       tray_id: 2
       asic_location: 4
       chan_id: 3
+    }
+  }
+  connection {
+    endpoint_a {
+      host_id: 29
+      tray_id: 2
+      asic_location: 4
+    }
+    endpoint_b {
+      host_id: 33
+      tray_id: 1
+      asic_location: 4
+    }
+  }
+  connection {
+    endpoint_a {
+      host_id: 29
+      tray_id: 2
+      asic_location: 4
+      chan_id: 1
+    }
+    endpoint_b {
+      host_id: 33
+      tray_id: 1
+      asic_location: 4
+      chan_id: 1
     }
   }
   connection {
@@ -65965,7 +66443,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 30
+      host_id: 28
       tray_id: 1
       asic_location: 1
       chan_id: 8
@@ -65979,7 +66457,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 30
+      host_id: 28
       tray_id: 1
       asic_location: 1
       chan_id: 9
@@ -66047,7 +66525,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 30
+      host_id: 28
       tray_id: 1
       asic_location: 2
       chan_id: 8
@@ -66061,7 +66539,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 30
+      host_id: 28
       tray_id: 1
       asic_location: 2
       chan_id: 9
@@ -66121,6 +66599,32 @@ eth_connections {
       tray_id: 4
       asic_location: 3
       chan_id: 9
+    }
+  }
+  connection {
+    endpoint_a {
+      host_id: 29
+      tray_id: 3
+      asic_location: 4
+    }
+    endpoint_b {
+      host_id: 13
+      tray_id: 4
+      asic_location: 4
+    }
+  }
+  connection {
+    endpoint_a {
+      host_id: 29
+      tray_id: 3
+      asic_location: 4
+      chan_id: 1
+    }
+    endpoint_b {
+      host_id: 13
+      tray_id: 4
+      asic_location: 4
+      chan_id: 1
     }
   }
   connection {
@@ -66242,7 +66746,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 30
+      host_id: 28
       tray_id: 1
       asic_location: 5
       chan_id: 8
@@ -66256,7 +66760,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 30
+      host_id: 28
       tray_id: 1
       asic_location: 5
       chan_id: 9
@@ -66353,7 +66857,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 30
+      host_id: 28
       tray_id: 1
       asic_location: 6
       chan_id: 8
@@ -66367,7 +66871,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 30
+      host_id: 28
       tray_id: 1
       asic_location: 6
       chan_id: 9
@@ -66547,7 +67051,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 30
+      host_id: 28
       tray_id: 2
       asic_location: 1
       chan_id: 8
@@ -66561,7 +67065,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 30
+      host_id: 28
       tray_id: 2
       asic_location: 1
       chan_id: 9
@@ -66603,7 +67107,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 30
+      host_id: 28
       tray_id: 2
       asic_location: 2
       chan_id: 8
@@ -66617,7 +67121,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 30
+      host_id: 28
       tray_id: 2
       asic_location: 2
       chan_id: 9
@@ -66649,12 +67153,38 @@ eth_connections {
       tray_id: 4
       asic_location: 4
       chan_id: 3
+    }
+  }
+  connection {
+    endpoint_a {
+      host_id: 29
+      tray_id: 4
+      asic_location: 4
+    }
+    endpoint_b {
+      host_id: 20
+      tray_id: 4
+      asic_location: 4
     }
   }
   connection {
     endpoint_a {
       host_id: 29
       tray_id: 4
+      asic_location: 4
+      chan_id: 1
+    }
+    endpoint_b {
+      host_id: 20
+      tray_id: 4
+      asic_location: 4
+      chan_id: 1
+    }
+  }
+  connection {
+    endpoint_a {
+      host_id: 29
+      tray_id: 4
       asic_location: 5
     }
     endpoint_b {
@@ -66714,7 +67244,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 30
+      host_id: 28
       tray_id: 2
       asic_location: 5
       chan_id: 8
@@ -66728,7 +67258,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 30
+      host_id: 28
       tray_id: 2
       asic_location: 5
       chan_id: 9
@@ -66797,7 +67327,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 30
+      host_id: 28
       tray_id: 2
       asic_location: 6
       chan_id: 8
@@ -66811,7 +67341,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 30
+      host_id: 28
       tray_id: 2
       asic_location: 6
       chan_id: 9
@@ -67725,32 +68255,6 @@ eth_connections {
       tray_id: 2
       asic_location: 4
       chan_id: 3
-    }
-  }
-  connection {
-    endpoint_a {
-      host_id: 30
-      tray_id: 2
-      asic_location: 4
-    }
-    endpoint_b {
-      host_id: 19
-      tray_id: 2
-      asic_location: 4
-    }
-  }
-  connection {
-    endpoint_a {
-      host_id: 30
-      tray_id: 2
-      asic_location: 4
-      chan_id: 1
-    }
-    endpoint_b {
-      host_id: 19
-      tray_id: 2
-      asic_location: 4
-      chan_id: 1
     }
   }
   connection {
@@ -68312,8 +68816,8 @@ eth_connections {
       asic_location: 4
     }
     endpoint_b {
-      host_id: 26
-      tray_id: 1
+      host_id: 2
+      tray_id: 2
       asic_location: 4
     }
   }
@@ -68325,8 +68829,8 @@ eth_connections {
       chan_id: 1
     }
     endpoint_b {
-      host_id: 26
-      tray_id: 1
+      host_id: 2
+      tray_id: 2
       asic_location: 4
       chan_id: 1
     }
@@ -68866,8 +69370,8 @@ eth_connections {
       asic_location: 4
     }
     endpoint_b {
-      host_id: 3
-      tray_id: 2
+      host_id: 34
+      tray_id: 1
       asic_location: 4
     }
   }
@@ -68879,8 +69383,8 @@ eth_connections {
       chan_id: 1
     }
     endpoint_b {
-      host_id: 3
-      tray_id: 2
+      host_id: 34
+      tray_id: 1
       asic_location: 4
       chan_id: 1
     }
@@ -70355,7 +70859,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 28
+      host_id: 29
       tray_id: 1
       asic_location: 1
       chan_id: 8
@@ -70369,7 +70873,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 28
+      host_id: 29
       tray_id: 1
       asic_location: 1
       chan_id: 9
@@ -70437,7 +70941,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 28
+      host_id: 29
       tray_id: 1
       asic_location: 2
       chan_id: 8
@@ -70451,7 +70955,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 28
+      host_id: 29
       tray_id: 1
       asic_location: 2
       chan_id: 9
@@ -70520,8 +71024,8 @@ eth_connections {
       asic_location: 4
     }
     endpoint_b {
-      host_id: 7
-      tray_id: 1
+      host_id: 15
+      tray_id: 2
       asic_location: 4
     }
   }
@@ -70533,8 +71037,8 @@ eth_connections {
       chan_id: 1
     }
     endpoint_b {
-      host_id: 7
-      tray_id: 1
+      host_id: 15
+      tray_id: 2
       asic_location: 4
       chan_id: 1
     }
@@ -70658,7 +71162,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 28
+      host_id: 29
       tray_id: 1
       asic_location: 5
       chan_id: 8
@@ -70672,7 +71176,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 28
+      host_id: 29
       tray_id: 1
       asic_location: 5
       chan_id: 9
@@ -70769,7 +71273,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 28
+      host_id: 29
       tray_id: 1
       asic_location: 6
       chan_id: 8
@@ -70783,7 +71287,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 28
+      host_id: 29
       tray_id: 1
       asic_location: 6
       chan_id: 9
@@ -70963,7 +71467,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 28
+      host_id: 29
       tray_id: 2
       asic_location: 1
       chan_id: 8
@@ -70977,7 +71481,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 28
+      host_id: 29
       tray_id: 2
       asic_location: 1
       chan_id: 9
@@ -71019,7 +71523,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 28
+      host_id: 29
       tray_id: 2
       asic_location: 2
       chan_id: 8
@@ -71033,7 +71537,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 28
+      host_id: 29
       tray_id: 2
       asic_location: 2
       chan_id: 9
@@ -71074,7 +71578,7 @@ eth_connections {
       asic_location: 4
     }
     endpoint_b {
-      host_id: 11
+      host_id: 23
       tray_id: 2
       asic_location: 4
     }
@@ -71087,7 +71591,7 @@ eth_connections {
       chan_id: 1
     }
     endpoint_b {
-      host_id: 11
+      host_id: 23
       tray_id: 2
       asic_location: 4
       chan_id: 1
@@ -71156,7 +71660,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 28
+      host_id: 29
       tray_id: 2
       asic_location: 5
       chan_id: 8
@@ -71170,7 +71674,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 28
+      host_id: 29
       tray_id: 2
       asic_location: 5
       chan_id: 9
@@ -71239,7 +71743,7 @@ eth_connections {
       chan_id: 8
     }
     endpoint_b {
-      host_id: 28
+      host_id: 29
       tray_id: 2
       asic_location: 6
       chan_id: 8
@@ -71253,7 +71757,7 @@ eth_connections {
       chan_id: 9
     }
     endpoint_b {
-      host_id: 28
+      host_id: 29
       tray_id: 2
       asic_location: 6
       chan_id: 9
@@ -72780,7 +73284,7 @@ eth_connections {
       asic_location: 4
     }
     endpoint_b {
-      host_id: 29
+      host_id: 25
       tray_id: 3
       asic_location: 4
     }
@@ -72793,7 +73297,7 @@ eth_connections {
       chan_id: 1
     }
     endpoint_b {
-      host_id: 29
+      host_id: 25
       tray_id: 3
       asic_location: 4
       chan_id: 1
@@ -79352,7 +79856,7 @@ eth_connections {
       asic_location: 4
     }
     endpoint_b {
-      host_id: 31
+      host_id: 27
       tray_id: 1
       asic_location: 4
     }
@@ -79365,7 +79869,7 @@ eth_connections {
       chan_id: 1
     }
     endpoint_b {
-      host_id: 31
+      host_id: 27
       tray_id: 1
       asic_location: 4
       chan_id: 1

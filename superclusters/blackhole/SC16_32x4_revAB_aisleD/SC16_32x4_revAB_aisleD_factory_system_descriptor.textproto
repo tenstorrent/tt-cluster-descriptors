@@ -5,7 +5,7 @@ hosts {
   rack: 1
   shelf_u: 2
   motherboard: "S7T-MB"
-  node_type: "BH_GALAXY_REV_AB"
+  node_type: "BH_GALAXY_REV_AB_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-110-d01u08"
@@ -14,7 +14,7 @@ hosts {
   rack: 1
   shelf_u: 8
   motherboard: "S7T-MB"
-  node_type: "BH_GALAXY_REV_AB"
+  node_type: "BH_GALAXY_REV_AB_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-110-d01u14"
@@ -23,7 +23,7 @@ hosts {
   rack: 1
   shelf_u: 14
   motherboard: "S7T-MB"
-  node_type: "BH_GALAXY_REV_AB"
+  node_type: "BH_GALAXY_REV_AB_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-110-d01u20"
@@ -32,7 +32,7 @@ hosts {
   rack: 1
   shelf_u: 20
   motherboard: "S7T-MB"
-  node_type: "BH_GALAXY_REV_AB"
+  node_type: "BH_GALAXY_REV_AB_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-110-d02u02"
@@ -41,7 +41,7 @@ hosts {
   rack: 2
   shelf_u: 2
   motherboard: "S7T-MB"
-  node_type: "BH_GALAXY_REV_AB"
+  node_type: "BH_GALAXY_REV_AB_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-110-d02u08"
@@ -50,7 +50,7 @@ hosts {
   rack: 2
   shelf_u: 8
   motherboard: "S7T-MB"
-  node_type: "BH_GALAXY_REV_AB"
+  node_type: "BH_GALAXY_REV_AB_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-110-d02u14"
@@ -59,7 +59,7 @@ hosts {
   rack: 2
   shelf_u: 14
   motherboard: "S7T-MB"
-  node_type: "BH_GALAXY_REV_AB"
+  node_type: "BH_GALAXY_REV_AB_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-110-d02u20"
@@ -68,7 +68,7 @@ hosts {
   rack: 2
   shelf_u: 20
   motherboard: "S7T-MB"
-  node_type: "BH_GALAXY_REV_AB"
+  node_type: "BH_GALAXY_REV_AB_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-110-d03u02"
@@ -77,7 +77,7 @@ hosts {
   rack: 3
   shelf_u: 2
   motherboard: "S7T-MB"
-  node_type: "BH_GALAXY_REV_AB"
+  node_type: "BH_GALAXY_REV_AB_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-110-d03u08"
@@ -86,7 +86,7 @@ hosts {
   rack: 3
   shelf_u: 8
   motherboard: "S7T-MB"
-  node_type: "BH_GALAXY_REV_AB"
+  node_type: "BH_GALAXY_REV_AB_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-110-d03u14"
@@ -95,7 +95,7 @@ hosts {
   rack: 3
   shelf_u: 14
   motherboard: "S7T-MB"
-  node_type: "BH_GALAXY_REV_AB"
+  node_type: "BH_GALAXY_REV_AB_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-110-d03u20"
@@ -104,7 +104,7 @@ hosts {
   rack: 3
   shelf_u: 20
   motherboard: "S7T-MB"
-  node_type: "BH_GALAXY_REV_AB"
+  node_type: "BH_GALAXY_REV_AB_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-110-d04u02"
@@ -113,7 +113,7 @@ hosts {
   rack: 4
   shelf_u: 2
   motherboard: "S7T-MB"
-  node_type: "BH_GALAXY_REV_AB"
+  node_type: "BH_GALAXY_REV_AB_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-110-d04u08"
@@ -122,7 +122,7 @@ hosts {
   rack: 4
   shelf_u: 8
   motherboard: "S7T-MB"
-  node_type: "BH_GALAXY_REV_AB"
+  node_type: "BH_GALAXY_REV_AB_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-110-d04u14"
@@ -131,7 +131,7 @@ hosts {
   rack: 4
   shelf_u: 14
   motherboard: "S7T-MB"
-  node_type: "BH_GALAXY_REV_AB"
+  node_type: "BH_GALAXY_REV_AB_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-110-d04u20"
@@ -140,7 +140,7 @@ hosts {
   rack: 4
   shelf_u: 20
   motherboard: "S7T-MB"
-  node_type: "BH_GALAXY_REV_AB"
+  node_type: "BH_GALAXY_REV_AB_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-110-d05u08"
@@ -149,7 +149,7 @@ hosts {
   rack: 5
   shelf_u: 8
   motherboard: "S7T-MB"
-  node_type: "BH_GALAXY_REV_AB"
+  node_type: "BH_GALAXY_REV_AB_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-110-d05u02"
@@ -158,7 +158,7 @@ hosts {
   rack: 5
   shelf_u: 2
   motherboard: "S7T-MB"
-  node_type: "BH_GALAXY_REV_AB"
+  node_type: "BH_GALAXY_REV_AB_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-110-d06u02"
@@ -167,7 +167,7 @@ hosts {
   rack: 6
   shelf_u: 2
   motherboard: "S7T-MB"
-  node_type: "BH_GALAXY_REV_AB"
+  node_type: "BH_GALAXY_REV_AB_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-110-d06u08"
@@ -176,7 +176,7 @@ hosts {
   rack: 6
   shelf_u: 8
   motherboard: "S7T-MB"
-  node_type: "BH_GALAXY_REV_AB"
+  node_type: "BH_GALAXY_REV_AB_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-110-d07u08"
@@ -185,7 +185,7 @@ hosts {
   rack: 7
   shelf_u: 8
   motherboard: "S7T-MB"
-  node_type: "BH_GALAXY_REV_AB"
+  node_type: "BH_GALAXY_REV_AB_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-110-d07u02"
@@ -194,7 +194,7 @@ hosts {
   rack: 7
   shelf_u: 2
   motherboard: "S7T-MB"
-  node_type: "BH_GALAXY_REV_AB"
+  node_type: "BH_GALAXY_REV_AB_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-110-d08u02"
@@ -203,7 +203,7 @@ hosts {
   rack: 8
   shelf_u: 2
   motherboard: "S7T-MB"
-  node_type: "BH_GALAXY_REV_AB"
+  node_type: "BH_GALAXY_REV_AB_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-110-d08u08"
@@ -212,7 +212,7 @@ hosts {
   rack: 8
   shelf_u: 8
   motherboard: "S7T-MB"
-  node_type: "BH_GALAXY_REV_AB"
+  node_type: "BH_GALAXY_REV_AB_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-110-d05u14"
@@ -221,7 +221,7 @@ hosts {
   rack: 5
   shelf_u: 14
   motherboard: "S7T-MB"
-  node_type: "BH_GALAXY_REV_AB"
+  node_type: "BH_GALAXY_REV_AB_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-110-d06u14"
@@ -230,7 +230,7 @@ hosts {
   rack: 6
   shelf_u: 14
   motherboard: "S7T-MB"
-  node_type: "BH_GALAXY_REV_AB"
+  node_type: "BH_GALAXY_REV_AB_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-110-d07u14"
@@ -239,7 +239,7 @@ hosts {
   rack: 7
   shelf_u: 14
   motherboard: "S7T-MB"
-  node_type: "BH_GALAXY_REV_AB"
+  node_type: "BH_GALAXY_REV_AB_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-110-d08u14"
@@ -248,7 +248,7 @@ hosts {
   rack: 8
   shelf_u: 14
   motherboard: "S7T-MB"
-  node_type: "BH_GALAXY_REV_AB"
+  node_type: "BH_GALAXY_REV_AB_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-110-d09u02"
@@ -257,7 +257,7 @@ hosts {
   rack: 9
   shelf_u: 2
   motherboard: "S7T-MB"
-  node_type: "BH_GALAXY_REV_AB"
+  node_type: "BH_GALAXY_REV_AB_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-110-d09u08"
@@ -266,7 +266,7 @@ hosts {
   rack: 9
   shelf_u: 8
   motherboard: "S7T-MB"
-  node_type: "BH_GALAXY_REV_AB"
+  node_type: "BH_GALAXY_REV_AB_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-110-d09u14"
@@ -275,7 +275,7 @@ hosts {
   rack: 9
   shelf_u: 14
   motherboard: "S7T-MB"
-  node_type: "BH_GALAXY_REV_AB"
+  node_type: "BH_GALAXY_REV_AB_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-110-d09u20"
@@ -284,7 +284,7 @@ hosts {
   rack: 9
   shelf_u: 20
   motherboard: "S7T-MB"
-  node_type: "BH_GALAXY_REV_AB"
+  node_type: "BH_GALAXY_REV_AB_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-110-d10u02"
@@ -293,7 +293,7 @@ hosts {
   rack: 10
   shelf_u: 2
   motherboard: "S7T-MB"
-  node_type: "BH_GALAXY_REV_AB"
+  node_type: "BH_GALAXY_REV_AB_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-110-d10u08"
@@ -302,7 +302,7 @@ hosts {
   rack: 10
   shelf_u: 8
   motherboard: "S7T-MB"
-  node_type: "BH_GALAXY_REV_AB"
+  node_type: "BH_GALAXY_REV_AB_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-110-d10u14"
@@ -311,7 +311,7 @@ hosts {
   rack: 10
   shelf_u: 14
   motherboard: "S7T-MB"
-  node_type: "BH_GALAXY_REV_AB"
+  node_type: "BH_GALAXY_REV_AB_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-110-d10u20"
@@ -320,7 +320,7 @@ hosts {
   rack: 10
   shelf_u: 20
   motherboard: "S7T-MB"
-  node_type: "BH_GALAXY_REV_AB"
+  node_type: "BH_GALAXY_REV_AB_XY_TORUS"
 }
 board_types {
   board_locations {

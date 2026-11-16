@@ -10,6 +10,7 @@ hosts {
   instance_path: "bh_glx_pod_st_0"
   instance_path: "bh_glx_node_st_0"
   instance_path: "node_0"
+  node_type: "BH_GALAXY_REV_C_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-120-d01u08"
@@ -23,6 +24,7 @@ hosts {
   instance_path: "bh_glx_pod_st_0"
   instance_path: "bh_glx_node_st_1"
   instance_path: "node_0"
+  node_type: "BH_GALAXY_REV_C_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-120-d01u14"
@@ -36,6 +38,7 @@ hosts {
   instance_path: "bh_glx_pod_st_0"
   instance_path: "bh_glx_node_st_2"
   instance_path: "node_0"
+  node_type: "BH_GALAXY_REV_C_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-120-d01u20"
@@ -49,6 +52,7 @@ hosts {
   instance_path: "bh_glx_pod_st_0"
   instance_path: "bh_glx_node_st_3"
   instance_path: "node_0"
+  node_type: "BH_GALAXY_REV_C_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-120-d02u02"
@@ -62,6 +66,7 @@ hosts {
   instance_path: "bh_glx_pod_st_1"
   instance_path: "bh_glx_node_st_0"
   instance_path: "node_0"
+  node_type: "BH_GALAXY_REV_C_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-120-d02u08"
@@ -75,6 +80,7 @@ hosts {
   instance_path: "bh_glx_pod_st_1"
   instance_path: "bh_glx_node_st_1"
   instance_path: "node_0"
+  node_type: "BH_GALAXY_REV_C_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-120-d02u14"
@@ -88,6 +94,7 @@ hosts {
   instance_path: "bh_glx_pod_st_1"
   instance_path: "bh_glx_node_st_2"
   instance_path: "node_0"
+  node_type: "BH_GALAXY_REV_C_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-120-d02u20"
@@ -101,6 +108,7 @@ hosts {
   instance_path: "bh_glx_pod_st_1"
   instance_path: "bh_glx_node_st_3"
   instance_path: "node_0"
+  node_type: "BH_GALAXY_REV_C_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-120-d03u02"
@@ -114,6 +122,7 @@ hosts {
   instance_path: "bh_glx_pod_st_2"
   instance_path: "bh_glx_node_st_0"
   instance_path: "node_0"
+  node_type: "BH_GALAXY_REV_C_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-120-d03u08"
@@ -127,6 +136,7 @@ hosts {
   instance_path: "bh_glx_pod_st_2"
   instance_path: "bh_glx_node_st_1"
   instance_path: "node_0"
+  node_type: "BH_GALAXY_REV_C_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-120-d03u14"
@@ -140,6 +150,7 @@ hosts {
   instance_path: "bh_glx_pod_st_2"
   instance_path: "bh_glx_node_st_2"
   instance_path: "node_0"
+  node_type: "BH_GALAXY_REV_C_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-120-d03u20"
@@ -153,6 +164,7 @@ hosts {
   instance_path: "bh_glx_pod_st_2"
   instance_path: "bh_glx_node_st_3"
   instance_path: "node_0"
+  node_type: "BH_GALAXY_REV_C_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-120-d04u02"
@@ -166,6 +178,7 @@ hosts {
   instance_path: "bh_glx_pod_st_3"
   instance_path: "bh_glx_node_st_0"
   instance_path: "node_0"
+  node_type: "BH_GALAXY_REV_C_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-120-d04u08"
@@ -179,6 +192,7 @@ hosts {
   instance_path: "bh_glx_pod_st_3"
   instance_path: "bh_glx_node_st_1"
   instance_path: "node_0"
+  node_type: "BH_GALAXY_REV_C_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-120-d04u14"
@@ -192,6 +206,7 @@ hosts {
   instance_path: "bh_glx_pod_st_3"
   instance_path: "bh_glx_node_st_2"
   instance_path: "node_0"
+  node_type: "BH_GALAXY_REV_C_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-120-d04u20"
@@ -205,6 +220,7 @@ hosts {
   instance_path: "bh_glx_pod_st_3"
   instance_path: "bh_glx_node_st_3"
   instance_path: "node_0"
+  node_type: "BH_GALAXY_REV_C_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-120-d05u02"
@@ -218,6 +234,7 @@ hosts {
   instance_path: "bh_glx_pod_st_4"
   instance_path: "bh_glx_node_st_0"
   instance_path: "node_0"
+  node_type: "BH_GALAXY_REV_C_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-120-d05u08"
@@ -231,6 +248,7 @@ hosts {
   instance_path: "bh_glx_pod_st_4"
   instance_path: "bh_glx_node_st_1"
   instance_path: "node_0"
+  node_type: "BH_GALAXY_REV_C_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-120-d05u14"
@@ -244,6 +262,7 @@ hosts {
   instance_path: "bh_glx_pod_st_4"
   instance_path: "bh_glx_node_st_2"
   instance_path: "node_0"
+  node_type: "BH_GALAXY_REV_C_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-120-d05u20"
@@ -257,6 +276,7 @@ hosts {
   instance_path: "bh_glx_pod_st_4"
   instance_path: "bh_glx_node_st_3"
   instance_path: "node_0"
+  node_type: "BH_GALAXY_REV_C_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-120-d06u02"
@@ -270,6 +290,7 @@ hosts {
   instance_path: "bh_glx_pod_st_5"
   instance_path: "bh_glx_node_st_1"
   instance_path: "node_0"
+  node_type: "BH_GALAXY_REV_C_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-120-d06u08"
@@ -283,6 +304,7 @@ hosts {
   instance_path: "bh_glx_pod_st_5"
   instance_path: "bh_glx_node_st_0"
   instance_path: "node_0"
+  node_type: "BH_GALAXY_REV_C_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-120-d07u02"
@@ -296,6 +318,7 @@ hosts {
   instance_path: "bh_glx_pod_st_5"
   instance_path: "bh_glx_node_st_2"
   instance_path: "node_0"
+  node_type: "BH_GALAXY_REV_C_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-120-d07u08"
@@ -309,6 +332,7 @@ hosts {
   instance_path: "bh_glx_pod_st_5"
   instance_path: "bh_glx_node_st_3"
   instance_path: "node_0"
+  node_type: "BH_GALAXY_REV_C_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-120-d06u14"
@@ -322,6 +346,7 @@ hosts {
   instance_path: "bh_glx_pod_st_7"
   instance_path: "bh_glx_node_st_0"
   instance_path: "node_0"
+  node_type: "BH_GALAXY_REV_C_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-120-d07u14"
@@ -335,6 +360,7 @@ hosts {
   instance_path: "bh_glx_pod_st_7"
   instance_path: "bh_glx_node_st_1"
   instance_path: "node_0"
+  node_type: "BH_GALAXY_REV_C_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-120-d08u14"
@@ -348,6 +374,7 @@ hosts {
   instance_path: "bh_glx_pod_st_7"
   instance_path: "bh_glx_node_st_2"
   instance_path: "node_0"
+  node_type: "BH_GALAXY_REV_C_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-120-d09u14"
@@ -361,6 +388,7 @@ hosts {
   instance_path: "bh_glx_pod_st_7"
   instance_path: "bh_glx_node_st_3"
   instance_path: "node_0"
+  node_type: "BH_GALAXY_REV_C_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-120-d08u02"
@@ -374,6 +402,7 @@ hosts {
   instance_path: "bh_glx_pod_st_6"
   instance_path: "bh_glx_node_st_1"
   instance_path: "node_0"
+  node_type: "BH_GALAXY_REV_C_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-120-d08u08"
@@ -387,6 +416,7 @@ hosts {
   instance_path: "bh_glx_pod_st_6"
   instance_path: "bh_glx_node_st_0"
   instance_path: "node_0"
+  node_type: "BH_GALAXY_REV_C_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-120-d09u02"
@@ -400,6 +430,7 @@ hosts {
   instance_path: "bh_glx_pod_st_6"
   instance_path: "bh_glx_node_st_2"
   instance_path: "node_0"
+  node_type: "BH_GALAXY_REV_C_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-120-d09u08"
@@ -413,6 +444,7 @@ hosts {
   instance_path: "bh_glx_pod_st_6"
   instance_path: "bh_glx_node_st_3"
   instance_path: "node_0"
+  node_type: "BH_GALAXY_REV_C_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-120-d10u02"
@@ -426,6 +458,7 @@ hosts {
   instance_path: "bh_glx_pod_st_8"
   instance_path: "bh_glx_node_st_0"
   instance_path: "node_0"
+  node_type: "BH_GALAXY_REV_C_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-120-d10u08"
@@ -439,6 +472,7 @@ hosts {
   instance_path: "bh_glx_pod_st_8"
   instance_path: "bh_glx_node_st_1"
   instance_path: "node_0"
+  node_type: "BH_GALAXY_REV_C_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-120-d10u14"
@@ -452,6 +486,7 @@ hosts {
   instance_path: "bh_glx_pod_st_8"
   instance_path: "bh_glx_node_st_2"
   instance_path: "node_0"
+  node_type: "BH_GALAXY_REV_C_XY_TORUS"
 }
 hosts {
   hostname: "bh-glx-120-d10u20"
@@ -465,6 +500,7 @@ hosts {
   instance_path: "bh_glx_pod_st_8"
   instance_path: "bh_glx_node_st_3"
   instance_path: "node_0"
+  node_type: "BH_GALAXY_REV_C_XY_TORUS"
 }
 board_types {
   board_locations {

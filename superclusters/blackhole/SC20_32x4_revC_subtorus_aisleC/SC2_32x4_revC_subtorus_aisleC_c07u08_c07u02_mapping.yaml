@@ -1,0 +1,7 @@
+# Dual BH Galaxy mock cluster: two MPI ranks (one per galaxy host), 32 ASICs each (64 total).
+# These two hosts (c07u08, c07u02) are neighbours in the cabling ring of the SC4 subset of the SC20 revC subtorus
+# Aisle C set, so this mapping reuses the shared SC20 cluster_desc files instead of duplicating them.
+# Ranks follow the ring order c07u08 -> c07u02.
+rank_to_cluster_mock_cluster_desc:
+  0: "tt_metal/third_party/tt-cluster-descriptors/superclusters/blackhole/SC20_32x4_revC_subtorus_aisleC/SC20_32x4_revC_subtorus_aisleC_cluster_desc/SC20_32x4_revC_subtorus_aisleC_cluster_desc_bh-glx-110-c07u08.yaml"
+  1: "tt_metal/third_party/tt-cluster-descriptors/superclusters/blackhole/SC20_32x4_revC_subtorus_aisleC/SC20_32x4_revC_subtorus_aisleC_cluster_desc/SC20_32x4_revC_subtorus_aisleC_cluster_desc_bh-glx-110-c07u02.yaml"

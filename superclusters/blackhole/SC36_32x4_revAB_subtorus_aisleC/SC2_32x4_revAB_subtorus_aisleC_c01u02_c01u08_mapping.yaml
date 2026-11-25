@@ -1,0 +1,7 @@
+# Dual BH Galaxy mock cluster: two MPI ranks (one per galaxy host), 32 ASICs each (64 total).
+# These two hosts (c01u02, c01u08) are neighbours in the cabling ring of the column-1 single-pod subset of the
+# SC36 revAB Aisle C set, so this mapping reuses the shared SC36 cluster_desc files instead of duplicating them.
+# Ranks follow the ring order c01u02 -> c01u08.
+rank_to_cluster_mock_cluster_desc:
+  0: "tt_metal/third_party/tt-cluster-descriptors/superclusters/blackhole/SC36_32x4_revAB_subtorus_aisleC/SC36_32x4_revAB_subtorus_aisleC_cluster_desc/SC36_32x4_revAB_subtorus_aisleC_cluster_desc_bh-glx-120-c01u02_rank_0.yaml"
+  1: "tt_metal/third_party/tt-cluster-descriptors/superclusters/blackhole/SC36_32x4_revAB_subtorus_aisleC/SC36_32x4_revAB_subtorus_aisleC_cluster_desc/SC36_32x4_revAB_subtorus_aisleC_cluster_desc_bh-glx-120-c01u08_rank_1.yaml"
